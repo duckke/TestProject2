@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	<subview_0>
+		<game_title>Airforce Strike</game_title>
+		<ago>Ago</ago>
+		<d>d</d>
+		<h>h</h>
+		<m>m</m>
+		<s>s</s>
+		<owned>Possess</owned>
+		<gold>Gold</gold>
+		<iron>Iron</iron>
+		<medal>Medal</medal>
+		<doctor>Doctor</doctor>
+		<shield>Shield</shield>
+		<doctor_deficit>You do not have enough doctors.</doctor_deficit>
+		<wing>Wing</wing>
+		<wing_deficit>You do not have enough wings</wing_deficit>
+		<engineer>Engineer</engineer>
+		<total_time>Total time</total_time>
+		<total_cost>Total cost</total_cost>
+		<unit>Unit</unit>
+		<bomber>Bomber</bomber>
+		<order>Order</order>
+		<training>Train</training>
+		<list>List</list>
+		<unlock>Unlock</unlock>
+		<instant>Instant</instant>
+		<build>Build</build>
+		<upgrade>Upgrade</upgrade>
+		<infomation>Information</infomation>
+		<total_wings>Total wings</total_wings>
+		<member>Members</member>
+		<send>Send</send>
+		<ok>Confirm</ok>
+		<cancel>Cancel</cancel>
+		<victory>Victory</victory>
+		<defeat>Defeat</defeat>
+		<join>Join</join>
+		<ready>Be ready</ready>
+		<reloaded>Ready to fire</reloaded>
+		<reload>Reload</reload>
+		<max>Max</max>
+		<maxlevel>Max Level</maxlevel>
+		<cc>C.C</cc>
+		<attack>Attack</attack>
+		<battlelog>Battle log</battlelog>
+		<chat>Chat</chat>
+		<back>Back</back>
+		<now>Just before</now>
+		<education>Education</education>
+		<collect>Collect</collect>
+		<develop>Develop</develop>
+		<developing>Developing...</developing>
+		<use>Use</use>
+		<using>Using...</using>
+		<log_gotten>Obtain : </log_gotten>
+		<log_lost>Lost : </log_lost>
+		<low>Low</low>
+		<normal>Normal</normal>
+		<high>High</high>
+		<quit>Quit</quit>
+		<full>Full</full>
+		<remove>Remove</remove>
+		<victory_bonus>Victory Bonus</victory_bonus>
+		<upgrade_complete>Upgrade Completed</upgrade_complete>
+		<build_complete>Build Completed</build_complete>
+		
+		<bomber_factory_message_0>Capacity</bomber_factory_message_0>
+		<bomber_factory_message_1>The bomber currenty under production</bomber_factory_message_1>
+		
+		<hangar_message_0>Under repair</hangar_message_0>
+		<hangar_message_1>Repair</hangar_message_1>
+		<hangar_message_2>Repair all</hangar_message_2>
+		
+		<alliance_message_0>My alliance</alliance_message_0>
+		<alliance_message_1>Create</alliance_message_1>
+		<alliance_message_2>Refresh</alliance_message_2>
+		<alliance_message_3>It is possible to give or receive doctors between members of the allied forces. Also, users can ask a commander to take revenge on attackers on behalf of themselves.</alliance_message_3>
+		<alliance_message_4>You have not joined any alliances!</alliance_message_4>
+		<alliance_message_5>Withdraw</alliance_message_5>
+		
+		<alliance_start_message_0>Create a new alliance</alliance_start_message_0>
+		<alliance_start_message_1>Select a logo</alliance_start_message_1>
+		<alliance_start_message_2>Create</alliance_start_message_2>
+		<alliance_start_message_3>Name</alliance_start_message_3>
+		<alliance_start_message_4>Symbol</alliance_start_message_4>
+		<alliance_start_message_5>The entry requirements</alliance_start_message_5>
+		
+		<battle_message_0>Find another</battle_message_0>
+		<battle_message_1>Retreat</battle_message_1>
+		<battle_message_2>Attack</battle_message_2>
+		<battle_message_3>Finish</battle_message_3>
+		<battle_message_4>ICBM</battle_message_4>
+		<battle_message_5>Fire</battle_message_5>
+		<battle_message_6>Total Destruction</battle_message_6>
+		<battle_message_7>Lost</battle_message_7>
+		<battle_message_8>Messages of Victory</battle_message_8>
+		<battle_message_9>Go back</battle_message_9>
+		<battle_message_left_flight>Attacks</battle_message_left_flight>
+		<battle_message_select_launch_position>Decide where you will fire ICBM missile.</battle_message_select_launch_position>
+		
+		<attack_list_message_0>PVP</attack_list_message_0>
+		<attack_list_message_1>Single Player</attack_list_message_1>
+		<attack_list_message_2>Find a competitor</attack_list_message_2>
+		<attack_list_message_3>Attack</attack_list_message_3>
+		
+		<battle_log_message_0>Attack Log</battle_log_message_0>
+		<battle_log_message_1>Defense Log</battle_log_message_1>
+		<battle_log_message_2>Destroyed Bombers</battle_log_message_2>
+		<battle_log_message_3>Bombers you destroyed</battle_log_message_3>
+		<battle_log_message_4>Revenge</battle_log_message_4>
+		
+		<achievement_title>Quest</achievement_title>
+		<achievement_message_0>The upgrade of a command center</achievement_message_0>
+		<achievement_message_1>Obtain a doctor from a competitor</achievement_message_1>
+		<achievement_message_2>Obtain golds from a competitor</achievement_message_2>
+		<achievement_message_3>Obtain irons from a competitor</achievement_message_3>
+		<achievement_message_4>Obtain wings</achievement_message_4>
+		<achievement_message_5>Develop a new technology</achievement_message_5>
+		<achievement_message_6>Successful attack</achievement_message_6>
+		<achievement_message_7>Demolish competitor's laboratory</achievement_message_7>
+		<achievement_message_8>The number of Lv.2 hangar you have</achievement_message_8>
+		<achievement_message_9>The number of stars you got from a campaign</achievement_message_9>
+		
+		<rank_title>Ranking</rank_title>
+		<rank_message_0>User</rank_message_0>
+		<rank_message_1>Alliance</rank_message_1>
+				
+		<upgrade_cclv_deficit>Lv.{0} or higher level of  command center is required to upgrade this building.</upgrade_cclv_deficit>
+		<upgrade_armorylv_deficit>Lv.{0} or higher level of armory is required to upgrade this building.</upgrade_armorylv_deficit>
+		
+		<inapp_title_0>Supply Dump</inapp_title_0>
+		<inapp_title_1>Request an engineer</inapp_title_1>
+		<inapp_bonus>Bonus</inapp_bonus>
+		<inapp_package>Package</inapp_package>
+		<inapp_small>Small</inapp_small>
+		<inapp_medium>Medium</inapp_medium>
+		<inapp_large>Large</inapp_large>
+		<inapp_huge>Huge</inapp_huge>
+		<inapp_massive>Massive</inapp_massive>
+		<inapp_half>Fill a half</inapp_half>
+		<inapp_full>Fill maximum</inapp_full>
+		
+		<message_rcv_title>Receive Message</message_rcv_title>
+		<message_snd_title>Send Message</message_snd_title>
+		<message_notice_title>Notice</message_notice_title>
+		<message_noreceive>No messages</message_noreceive>
+		<message_nosend>No messages</message_nosend>
+		<message_pullrefresh>Pull to update the data</message_pullrefresh>
+		<message_placerefresh>Release to update the data</message_placerefresh>
+		
+		<laboratory_message_0>The ability to expand a scope of search area. You can explore one more area according to your command center' level. </laboratory_message_0>
+		<laboratory_message_1>The ability to build a fake command center. You can make attackers confused by building a fake command center.</laboratory_message_1>
+		<laboratory_message_2>Adding a stealth function to bombers. one time/a bomber. The function remains 10 seconds.  </laboratory_message_2>
+		<laboratory_message_3>Increase 30% of command center's strength and the effect remains for 24 hours.</laboratory_message_3>
+		<laboratory_message_4>The ability to build two fake command centers. You can make attackers confused by building two fake command centers.</laboratory_message_4>
+		<laboratory_message_5>Increase 50% of command center's strength and the effect remains 48 hours.</laboratory_message_5>
+		<laboratory_message_6>The ability to add a stealth function to bombers. 2 times/ 2 bombers. You can use the ability for 10 seconds. </laboratory_message_6>
+		<laboratory_message_7>A shield technology. It prevents competitors from attacking you for 24 hours.</laboratory_message_7>
+		<laboratory_message_8>The ability to expand a scope of search area. You can explore competitor's base completely 5 times regardless of the level of your command center. </laboratory_message_8>
+		<laboratory_message_9>A stealth radar technology. It enables you to detect the stealth bombers. The function remains 24 hours. </laboratory_message_9>
+		<laboratory_message_10>The ability to expand a scope of search area. You can explore competitor's base completely 10 times regardless of the level of your command center. </laboratory_message_10>
+		<laboratory_message_11>A shield technology. It prevents competitors from attacking you for 48 hours.</laboratory_message_11>
+		<laboratory_message_12>A stealth radar technology. It enables you to detect the stealth bombers. The function remains 48 hours.</laboratory_message_12>
+		<laboratory_message_13>The ability to expand a scope of search area. You can explore competitor's base completely 15 times regardless of the level of your command center.</laboratory_message_13>
+		<laboratory_message_14>A shield technology. It prevents competitors from attacking you for 168 hours.</laboratory_message_14>
+		<laboratory_message_15>A stealth radar technology. It enables you to detect the stealth bombers. The function remains 72 hours.</laboratory_message_15>
+		
+		<option_message_1>Background Musics</option_message_1>
+		<option_message_2>Sound Effect</option_message_2>
+		<option_message_3>Graphic Level</option_message_3>
+		<option_message_4>Language</option_message_4>
+		<option_message_5>If you log in as a guest, connect the game to your social platform and save your account's data.</option_message_5>
+		<option_message_6>Connection</option_message_6>
+		<option_message_7>Change an account</option_message_7>
+		<option_message_8>Swift</option_message_8>
+		<option_message_9>If you want to play the game on another device,  issue a code from a sever and enter the code on another device.</option_message_9>
+		<option_message_10>Issue a code</option_message_10>
+		<option_message_11>Enter a code</option_message_11>
+		<option_message_12>You can get the latest news about the game on Airforce Strike's facebook. </option_message_12>
+		<option_message_13>If you follow Airfore Strike's twitter, you can get the latest news about the game.</option_message_13>
+		<option_message_14>Tips</option_message_14>
+		<option_message_15>Credits</option_message_15>
+		<option_message_16>Settings</option_message_16>
+		<option_message_17>Account</option_message_17>
+		<option_message_18>More</option_message_18>
+		<option_message_19>Option</option_message_19>
+		<option_message_20>Settings Alarm</option_message_20>
+		
+		<register_message_0> The name of a base&#10;(at least 20 characters)</register_message_0>
+		<register_message_1>Register</register_message_1>
+		
+		<laboratory_required>Laboratory&#10;Lv.{0} Required</laboratory_required>
+		<factory_required>Bomber factory&#10;Lv.{0} Required</factory_required>
+		<armory_required>Amory&#10;Lv.{0} Required</armory_required>
+		<techcenter_required>Tech center&#10;Lv.{0} Required</techcenter_required>
+		<cc_required>Command center Lv.{0} </cc_required>
+		<cc_maxbuild>The maximum number of buildings has been built</cc_maxbuild>
+		
+		<tip_title>Tips : </tip_title>
+		<tip_0>You can obtain a doctor only after you get 3 stars in a campaign mode.</tip_0>
+		<tip_1>If you do not connect the game to your social platform, it will be complicated to recover your account.</tip_1>
+		<tip_2>The higher destruction rate you have, the more doctors you can obtain in a PVP match. </tip_2>
+		<tip_3>Achievements that awards resources are applied only in PVP matches. </tip_3>
+		<tip_4>If you have a stealth radar technology, all units can detect stealth bombers.</tip_4>
+		<tip_5>All clouds will be removed in a campaign stage you obtained all resources and 3 stars for that level. </tip_5>
+		<tip_6>If you have both 'a whole search technology' and 'an ability to expand a scope of search area',  the latter will be used first.</tip_6>
+		<tip_7>You can leave a victory message to your competitor when you win in a PVP match.</tip_7>
+		<tip_8>The command center destroyed from a competitor's attack will be restored automatically once you touch it.</tip_8>
+		<tip_9> If you need any help, please feel free to send a message to the administrator.</tip_9>
+		<tip_10>If you have not built an academy yet, you cannot obtain a doctor.</tip_10>
+		<tip_11>A successful victory is when you win a war without loosing more than 2 bombers.</tip_11>
+		<tip_12>You can copy a message by pushing the message you received.</tip_12>
+        <tip_13>The fake command center can be built only one.</tip_13>
+	
+		<notification_content_0>{2} of {0}(Lv.{1}) has been completed.</notification_content_0>
+		<notification_content_1> All bombers have been produced successfully.</notification_content_1>
+		<notification_content_2>The doctor has been taken all of the required lectures.</notification_content_2>
+		<notification_content_3>The upgrade of 0} {1}(Lv.{2}) has been completed. </notification_content_3>
+		<notification_content_4>All technologies of a strategic laboratory has been developed.</notification_content_4>
+		<notification_content_5>The missile of {0} has been reloaded. </notification_content_5>
+		<notification_content_6>The shield will expire soon.</notification_content_6>
+	
+		<quit_message>Do you want to quit the game?</quit_message>
+	
+		<being_attacked_message>You're being attacked by a competitor. &#10; Please try again later.</being_attacked_message>
+		
+		<tutorial_content_0>Commander, we know you have bravely finished your service, but you are needed once again. Welcome back to our base!</tutorial_content_0> 
+		<tutorial_content_1>Our base has been recently constructed, so your outstanding tactics are needed to raise us to power. </tutorial_content_1>
+		<tutorial_content_2>Since lots of resources are necessary to build a mighty base, you should fisrt construct a production facility. Fortunately, we can obtain resources by attacking other bases as well besides producing them on our own. </tutorial_content_2>
+		<tutorial_content_4>So, let's build a gold mine and an iron mine right away!</tutorial_content_4>   
+		<tutorial_content_5>Gold is used for manufacturing bombers and building defense facilities.</tutorial_content_5> 
+		<tutorial_content_6>Let's try to build a gold mine.</tutorial_content_6>
+		<tutorial_content_7>A gold mine is under construction. While constructing or upgrading buildings, medals can be used to shorten the duration.</tutorial_content_7>
+		<tutorial_content_8>A gold mine has been built successfully.</tutorial_content_8> 
+		<tutorial_content_9>Now, let's build an iron mine. Irons are used for building facilities.</tutorial_content_9>
+        <tutorial_content_10>Let's try to build an iron mine.</tutorial_content_10>
+		<tutorial_content_11>An iron mine is under construction. While constructing or upgrading buildings, medals can be used to shorten the duration.</tutorial_content_11> 
+        <tutorial_content_12>An iron mine has been constructed successfully.</tutorial_content_12> 
+		<tutorial_content_13>In order to produce a bomber which is needed when attacking a competitor's base, a hangar should be prepared first. Every bomber has different sizes. As a hangar is upgraded, more bombers can be kept. </tutorial_content_13>
+        <tutorial_content_14> Now, lets try to build a hangar.</tutorial_content_14>
+		<tutorial_content_15>A hangar is under construction. Use medals to quickly finish the construction.</tutorial_content_15> 
+        <tutorial_content_16>The hangar has been constructed successfully. Now, let's produce a bomber. The bomber can be manufactured at a bomber factory.</tutorial_content_16>
+        <tutorial_content_17>Now, lets try to build a bomber factory.</tutorial_content_17>
+		<tutorial_content_18>Bomber factory is under construction. While constructing or upgrading buildings, medals can be used to shorten the duration.</tutorial_content_18> 
+        <tutorial_content_19>The bomber factory has been constructed successfully. Now, let's go to the bomber factory.</tutorial_content_19>
+        <tutorial_content_20>At this moment, only 'PathFinder' can be produced. As its level is higher, stronger models can be manufactured. Also, keep in mind that only 4 types of bombers can be produced at once. Let's try to build a PathFinder.</tutorial_content_20>
+        <tutorial_content_22>Since we must hurry, use medals to quickly finish the production.</tutorial_content_22>
+        <tutorial_content_23>Now, a bomber is prepared, so it is time to attack the competitor's base. Please touch the 'close' button. </tutorial_content_23>
+        <tutorial_content_24>Please touch the 'Attack' menu as indicated on the bottom left of the page.</tutorial_content_24>
+        <tutorial_content_25>Attacks are divided into PVP mode and a Single Player mode. You can improve your attack skills by practicing various tactics in Single Player mode. Touch 'Find a competitor' button in PVP mode.</tutorial_content_25>
+		<tutorial_content_26>You've searched for a part of competitor's base. Do not forget that winning or losing is determined by whether or not the competitor's command center is destroyed. </tutorial_content_26>
+        <tutorial_content_27>Please touch a bomber available for an attack.</tutorial_content_27>
+        <tutorial_content_28>You can decide what direction your bomber will attack in a real battle. Once you draw a line as recommended, the bomber will fly in that direction.  </tutorial_content_28>
+        <tutorial_content_31>The location of competitor' command center has been discovered. Now! Push the 'Fire' button and drop a bomb!</tutorial_content_31>
+        <tutorial_content_32>Good job! The competitor's command center has been destroyed.</tutorial_content_32>
+        <tutorial_content_39>Congratulations, commander! You've finished your first attack successfully.</tutorial_content_39>
+        <tutorial_content_40>The damaged bomber can be repaired in a hangar for another attack. Now, let's move to the hangar and repair the bomber.</tutorial_content_40>
+        <tutorial_content_41>Once you touch a 'Repair' button, the bomber will be repaired. One thing you should keep in mind is that bombers under repair cannot join a battle. </tutorial_content_41>
+        <tutorial_content_42>Let's move to the base view. Please touch the 'close' button.</tutorial_content_42>
+        <tutorial_content_43>You can check your attack and defense log on a battle log menu. Please touch a battle log menu. </tutorial_content_43>
+        <tutorial_content_44>Please touch the defense log. </tutorial_content_44>
+        <tutorial_content_45>Check your defense log regularly to show your wrath anyone who dare attack your base.</tutorial_content_45>
+        <tutorial_content_46>Please touch the 'close' button.</tutorial_content_46>
+        <tutorial_content_47>Congratulations, you have learned all the basic features of the game. I hope that you raise our ranks to become the strongest base. Us doctors will do our best to help you out. We wish you luck!</tutorial_content_47>
+	</subview_0>
+	
+	<subview_1>
+		<game_title>에어포스 스트라이크</game_title>
+		<ago> 전</ago>
+		<d>일</d>
+		<h>시간</h>
+		<m>분</m>
+		<s>초</s>
+		<owned>보유</owned>
+		<gold>골드</gold>
+		<iron>철</iron>
+		<medal>메달</medal>
+		<doctor>박사</doctor>
+		<shield>쉴드</shield>
+		<doctor_deficit>박사가 부족합니다</doctor_deficit>
+		<wing>윙</wing>
+		<wing_deficit>윙이 부족합니다</wing_deficit>
+		<engineer>공병대</engineer>
+		<total_time>총 시간</total_time>
+		<total_cost>총 비용</total_cost>
+		<unit>유닛</unit>
+		<bomber>폭격기</bomber>
+		<order>주문</order>
+		<training>훈련</training>
+		<list>리스트</list>
+		<unlock>잠금 해제</unlock>
+		<instant>즉시 완료</instant>
+		<build>건설</build>
+		<upgrade>업그레이드</upgrade>
+		<infomation>정보</infomation>
+		<total_wings>윙 합계</total_wings>
+		<member>멤버</member>
+		<send>보내기</send>
+		<ok>확인</ok>
+		<cancel>취소</cancel>
+		<victory>승리</victory>
+		<defeat>패배</defeat>
+		<join>가입</join>
+		<ready>준비됨</ready>
+		<reloaded>발사 준비됨</reloaded>
+		<reload>재장전</reload>
+		<max>최대</max>
+		<maxlevel>최대 레벨</maxlevel>
+		<cc>커맨드 센터</cc>
+		<attack>공격</attack>
+		<battlelog>전투 로그</battlelog>
+		<chat>채팅</chat>
+		<back>뒤로</back>
+		<now>방금</now>
+		<education>양성</education>
+		<collect>수집</collect>
+		<develop>개발</develop>
+		<developing>개발중...</developing>
+		<use>사용</use>
+		<using>사용중...</using>
+		<log_gotten>얻음 : </log_gotten>
+		<log_lost>잃음 : </log_lost>
+		<low>낮음</low>
+		<normal>표준</normal>
+		<high>높음</high>
+		<quit>종료</quit>
+		<full>가득참</full>
+		<remove>제거</remove>
+		<victory_bonus>승리 보너스</victory_bonus>
+		<upgrade_complete>업그레이드 완료</upgrade_complete>
+		<build_complete>건설 완료</build_complete>
+		
+		<bomber_factory_message_0>격납고 수용규모</bomber_factory_message_0>
+		<bomber_factory_message_1>생산중인 폭격기</bomber_factory_message_1>
+		
+		<hangar_message_0>수리중</hangar_message_0>
+		<hangar_message_1>수리</hangar_message_1>
+		<hangar_message_2>전체 수리</hangar_message_2>
+		
+		<alliance_message_0>나의 연합</alliance_message_0>
+		<alliance_message_1>창설</alliance_message_1>
+		<alliance_message_2>새로고침</alliance_message_2>
+		<alliance_message_3>연합군 간 박사를 주고 받을 수 있으며 사령관에게 보복을 요청할 수도 있습니다. 곧 연합군 간 대규모 전투가 벌어질 것이라는 첩보가 있습니다.</alliance_message_3>
+		<alliance_message_4>가입된 연합군 없음!</alliance_message_4>
+		<alliance_message_5>탈퇴</alliance_message_5>
+		
+		<alliance_start_message_0>새 연합군 창설</alliance_start_message_0>
+		<alliance_start_message_1>로고선택</alliance_start_message_1>
+		<alliance_start_message_2>창설</alliance_start_message_2>
+		<alliance_start_message_3>이름</alliance_start_message_3>
+		<alliance_start_message_4>심볼</alliance_start_message_4>
+		<alliance_start_message_5>가입 조건</alliance_start_message_5>
+		
+		<battle_message_0>다른 상대 찾기</battle_message_0>
+		<battle_message_1>후퇴</battle_message_1>
+		<battle_message_2>공격개시</battle_message_2>
+		<battle_message_3>끝내기</battle_message_3>
+		<battle_message_4>ICBM</battle_message_4>
+		<battle_message_5>발사</battle_message_5>
+		<battle_message_6>총 파괴율</battle_message_6>
+		<battle_message_7>잃은 폭격기</battle_message_7>un
+		<battle_message_8>승리의 메세지</battle_message_8>
+		<battle_message_9>돌아가기</battle_message_9>
+		<battle_message_left_flight>남은 출격 횟수</battle_message_left_flight>
+		<battle_message_select_launch_position>투하 할 위치를 지정하세요.</battle_message_select_launch_position>
+		
+		<attack_list_message_0>PVP 모드</attack_list_message_0>
+		<attack_list_message_1>캠페인 모드</attack_list_message_1>
+		<attack_list_message_2>상대 찾기</attack_list_message_2>
+		<attack_list_message_3>출격</attack_list_message_3>
+		
+		<battle_log_message_0>공격기록</battle_log_message_0>
+		<battle_log_message_1>방어기록</battle_log_message_1>
+		<battle_log_message_2>파괴된 폭격기</battle_log_message_2>
+		<battle_log_message_3>파괴한 폭격기</battle_log_message_3>
+		<battle_log_message_4>복수하기</battle_log_message_4>
+		
+		<achievement_title>업적</achievement_title>
+		<achievement_message_0>커맨드 센터 업그레이드</achievement_message_0>
+		<achievement_message_1>상대로부터 박사 획득</achievement_message_1>
+		<achievement_message_2>상대로부터 골드 획득</achievement_message_2>
+		<achievement_message_3>상대로부터 철 획득</achievement_message_3>
+		<achievement_message_4>윙 획득</achievement_message_4>
+		<achievement_message_5>신기술 개발</achievement_message_5>
+		<achievement_message_6>성공적인 폭격</achievement_message_6>
+		<achievement_message_7>상대 연구소 파괴</achievement_message_7>
+		<achievement_message_8>2레벨 격납고 보유수</achievement_message_8>
+		<achievement_message_9>캠페인에서 획득한 별 개수</achievement_message_9>
+		
+		<rank_title>랭킹</rank_title>
+		<rank_message_0>유저 랭킹</rank_message_0>
+		<rank_message_1>연합군 랭킹</rank_message_1>
+				
+		<upgrade_cclv_deficit>커맨드센터 Lv.{0} 이상 업그레이드 가능합니다</upgrade_cclv_deficit>
+		<upgrade_armorylv_deficit>군수 공장 Lv.{0} 이상 업그레이드 가능합니다</upgrade_armorylv_deficit>
+		
+		<inapp_title_0>군수 기지</inapp_title_0>
+		<inapp_title_1>공병대 요청</inapp_title_1>
+		<inapp_bonus>보너스</inapp_bonus>
+		<inapp_package>패키지</inapp_package>
+		<inapp_small>작은</inapp_small>
+		<inapp_medium>중간의</inapp_medium>
+		<inapp_large>큰</inapp_large>
+		<inapp_huge>거대한</inapp_huge>
+		<inapp_massive>대규모의</inapp_massive>
+		<inapp_half>절반 채우기</inapp_half>
+		<inapp_full>가득 채우기</inapp_full>
+		
+		<message_rcv_title>받은 메시지</message_rcv_title>
+		<message_snd_title>보낸 메시지</message_snd_title>
+		<message_notice_title>공지</message_notice_title>
+		<message_noreceive>받은 메시지 없음</message_noreceive>
+		<message_nosend>보낸 메시지 없음</message_nosend>
+		<message_pullrefresh>업데이트 하시려면 당기세요</message_pullrefresh>
+		<message_placerefresh>업데이트 하시려면 놓으세요</message_placerefresh>
+		
+		<laboratory_message_0>탐색 기능 확장 기술. 커맨드 센터 레벨에 따른 탐색에 한 곳 더 추가하여 탐색할 수 있습니다.</laboratory_message_0>
+		<laboratory_message_1>페이크 커맨드 센터 1개 건설 기술. 페이크 C.C 로 상대를 교란시킬 수 있습니다.</laboratory_message_1>
+		<laboratory_message_2>폭격기에 스텔스 기능 추가 기술. 1회(1대) 출격 기준 기술이며 스텔스 시간은 10초 입니다.</laboratory_message_2>
+		<laboratory_message_3>커맨드 센터의 체력이 30% 증가되고 효과는 24시간 지속됩니다.</laboratory_message_3>
+		<laboratory_message_4>페이크 커맨드 센터 2개 건설 기술. 페이크 C.C 로 상대를 교란시킬 수 있습니다.</laboratory_message_4>
+		<laboratory_message_5>커맨드 센터의 체력이 50% 증가되고 효과는 48시간 지속됩니다.</laboratory_message_5>
+		<laboratory_message_6>폭격기에 스텔스 기능 추가 기술. 2회(2대) 출격 기준 기술이며 스텔스 시간은 10초 입니다.</laboratory_message_6>
+		<laboratory_message_7>쉴드 기능. 24시간 동안 상대가 공격할 수 없게 만드는 기술입니다.</laboratory_message_7>
+		<laboratory_message_8>탐색 기능 확장 기술. 커맨드 센터 레벨과 상관없이 상대 기지를 완벽히 탐색할 수 있습니다. 사용 가능 횟수는 5회입니다.</laboratory_message_8>
+		<laboratory_message_9>스텔스 레이더 기술. 스텔스 폭격기들을 감지할 수 있는 레이더 기술입니다. 기술은 24시간 동안 유지됩니다.</laboratory_message_9>
+		<laboratory_message_10>탐색 기능 확장 기술. 커맨드 센터 레벨과 상관없이 상대 기지를 완벽히 탐색할 수 있습니다. 사용 가능 횟수는 10회입니다.</laboratory_message_10>
+		<laboratory_message_11>쉴드 기능. 48시간 동안 상대가 공격할 수 없게 만드는 기술입니다.</laboratory_message_11>
+		<laboratory_message_12>스텔스 레이더 기술. 스텔스 폭격기들을 감지할 수 있는 레이더 기술입니다. 기술은 48시간 동안 유지됩니다.</laboratory_message_12>
+		<laboratory_message_13> 탐색 기능 확장 기술. 커맨드 센터 레벨과 상관없이 상대 기지를 완벽히 탐색할 수 있습니다. 사용 가능 횟수는 15회입니다.</laboratory_message_13>
+		<laboratory_message_14>쉴드 기능. 168시간 동안 상대가 공격할 수 없게 만드는 기술입니다.</laboratory_message_14>
+		<laboratory_message_15>스텔스 레이더 기술. 스텔스 폭격기들을 감지할 수 있는 레이더 기술입니다. 기술은 72시간 동안 유지됩니다.</laboratory_message_15>
+		
+		<option_message_1>배경음</option_message_1>
+		<option_message_2>효과음</option_message_2>
+		<option_message_3>그래픽 수준</option_message_3>
+		<option_message_4>언어</option_message_4>
+		<option_message_5>Guest로 로그인 하셨다면 소셜 플랫폼과 연동하여 계정 정보를 저장하세요!</option_message_5>
+		<option_message_6>연동</option_message_6>
+		<option_message_7>계정 변경</option_message_7>
+		<option_message_8>바꾸기</option_message_8>
+		<option_message_9>기기를 변경하여 플레이 하시려면 서버로부터 코드를 발급 받아 다른 기기에 입력하시면 됩니다.</option_message_9>
+		<option_message_10>코드 받기</option_message_10>
+		<option_message_11>코드 입력</option_message_11>
+		<option_message_12>에어포스 스트라이크 페이스북에선 항상 최신 뉴스를 제공합니다.</option_message_12>
+		<option_message_13>에어포스 스트라이크 트위터를 팔로우 하시면 최신 뉴스를 받아볼 수 있습니다.</option_message_13>
+		<option_message_14>팁</option_message_14>
+		<option_message_15>제작진</option_message_15>
+		<option_message_16>설정</option_message_16>
+		<option_message_17>계정</option_message_17>
+		<option_message_18>기타</option_message_18>
+		<option_message_19>옵션</option_message_19>
+		<option_message_20>알람 설정</option_message_20>
+		
+		<register_message_0>기지 이름 (최소 2자, 최대 20자)</register_message_0>
+		<register_message_1>등록</register_message_1>
+		
+		<laboratory_required>연구소&#10;Lv.{0} 필요</laboratory_required>
+		<factory_required>폭격기 공장&#10;Lv.{0} 필요</factory_required>
+		<armory_required>군수 공장&#10;Lv.{0} 필요</armory_required>
+		<techcenter_required>테크센터&#10;Lv.{0} 필요</techcenter_required>
+		<cc_required>커맨드센터 Lv.{0} 필요</cc_required>
+		<cc_maxbuild>최대 개수 건설됨</cc_maxbuild>
+		
+		<tip_title>팁 : </tip_title>
+		<tip_0>캠페인 모드에서는 별 3개를 획득해야 박사를 획득할 수 있습니다.</tip_0>
+		<tip_1>계정 연동을 하지 않을 경우 게임 계정 복구가 힘들어질 수 있습니다.</tip_1>
+		<tip_2>PVP 모드에서는 파괴율이 높을 수록 더 많은 박사를 획득할 수 있습니다.</tip_2>
+		<tip_3>자원 획득 업적은 PVP 모드에서만 적용됩니다.</tip_3>
+		<tip_4>스텔스 레이더 기술이 있으면 모든 대공 유닛들이 스텔스기를 감지할 수 있습니다.</tip_4>
+		<tip_5>모든 자원을 획득하고 별 3개를 획득한 캠페인에서는 모든 구름이 자동 제거됩니다.</tip_5>
+		<tip_6>완전 탐색 기술과 탐색 확장 기술을 동시에 보유하고 있을 경우 탐색 확장 기술이 먼저 사용됩니다.</tip_6>
+		<tip_7>PVP 모드에서 승리 했을 경우 상대에게 승리의 메세지를 남길 수 있습니다.</tip_7>
+		<tip_8>상대 폭격에 의해 파괴된 커맨드 센터는 터치하면 자동으로 복구됩니다.</tip_8>
+		<tip_9>도움이 필요하시면 언제든지 운영자에게 메세지를 보내주세요.</tip_9>
+		<tip_10>아카데미를 건설하지 않았다면 박사를 획득할 수 없습니다.</tip_10>
+		<tip_11>성공적인 폭격의 기준은 폭격기 손실을 3대 미만으로 승리했을 경우 입니다.</tip_11>
+		<tip_12>받은 메세지를 길게 누르면 메세지를 복사할 수 있습니다.</tip_12>
+		<tip_13>페이크 커맨드 센터는 최대 1개만 건설할 수 있습니다.</tip_13>
+		
+		<notification_content_0>{0}(Lv.{1})의 {2}이(가) 완료 되었습니다.</notification_content_0>
+		<notification_content_1>모든 폭격기의 생산이 완료 되었습니다.</notification_content_1>
+		<notification_content_2>박사 양성이 완료 되었습니다.</notification_content_2>
+		<notification_content_3>{0} {1}(Lv.{2})의 업그레이드가 완료 되었습니다.</notification_content_3>
+		<notification_content_4>전략 연구소의 모든 기술 개발이 완료 되었습니다.</notification_content_4>
+		<notification_content_5>{0}의 미사일이 재장전 되었습니다.</notification_content_5>
+		<notification_content_6>쉴드 기술이 잠시 후에 만료됩니다.</notification_content_6>
+		
+		<quit_message>게임을 종료하시겠습니까?</quit_message>
+		
+		<being_attacked_message>현재 상대로부터 공격 받고 있습니다.&#10;잠시 후에 다시 시도해주세요.</being_attacked_message>
+		
+		<tutorial_content_0>사령관, 그동안의 전투로 많이 힘들었을 줄 알지만 일단 우리 기지로 복귀한 것을 환영합니다.</tutorial_content_0>
+		<tutorial_content_1>우리 기지는 이제 막 구축되어 사령관의 탁월한 지휘가 절실한 상황 입니다.</tutorial_content_1>
+		<tutorial_content_2>먼저 강력한 기지를 구축하기 위해 많은 자원이 필요하므로 자원 생산 시설을 먼저 건설해야 할 것입니다. 다행인 점은 자원은 우리가 생산해서 얻는 방법 이외에 상대 기지를 공격해서 얻어올 수도 있다는 점 입니다.</tutorial_content_2>
+		<tutorial_content_4>자 그럼 서둘러 골드 생산 시설과 철 생산 시설을 건설해봅시다.</tutorial_content_4>
+		<tutorial_content_5>골드는 폭격기 생산 및 방어 시설 건설에 사용됩니다.</tutorial_content_5>
+		<tutorial_content_6>먼저 골드 생산 시설을 건설해보세요.</tutorial_content_6>
+		<tutorial_content_7>골드 생산 시설이 건설 중입니다. 시설물 건설이나 업그레이드 시 메달을 사용하시면 시간을 단축시킬 수 있습니다.</tutorial_content_7>
+		<tutorial_content_8>골드 생산 시설이 건설되었습니다.</tutorial_content_8>
+		<tutorial_content_9>이제 철 생산 시설을 건설해보겠습니다. 철은 시설물 건설에 사용됩니다.</tutorial_content_9>
+		<tutorial_content_10>철 생산 시설을 건설해보세요.</tutorial_content_10>
+		<tutorial_content_11>철 생산 시설이 건설 중입니다. 시설물 건설이나 업그레이드 시 메달을 사용하시면 시간을 단축시킬 수 있습니다.</tutorial_content_11>
+		<tutorial_content_12>철 생산 시설이 건설되었습니다.</tutorial_content_12>
+		<tutorial_content_13>상대 기지 공격에 필요한 폭격기를 생산하려면 격납고가 먼저 준비되어야 합니다. 각 폭격기마다 격납고를 차지하는 면적이 달라 격납고를 업그레이드 할수록 더 많은 폭격기를 보관할 수 있습니다.</tutorial_content_13>
+		<tutorial_content_14>자 그럼 격납고를 건설해볼까요?</tutorial_content_14>
+		<tutorial_content_15>격납고가 건설 중입니다. 메달을 사용하여 건설을 즉시 완료 해주세요.</tutorial_content_15>
+		<tutorial_content_16>격납고가 준비 되었으니 이제 폭격기를 생산해봅시다. 폭격기는 폭격기 공장에서 생산할 수 있습니다.</tutorial_content_16>
+		<tutorial_content_17>폭격기 공장을 건설해볼까요?</tutorial_content_17>
+		<tutorial_content_18>폭격기 공장이 건설 중입니다. 시설물 건설이나 업그레이드 시 메달을 사용하시면 시간을 단축시킬 수 있습니다.</tutorial_content_18>
+		<tutorial_content_19>폭격기 공장 건설이 완료되었습니다. 이제 폭격기 공장으로 가보겠습니다.</tutorial_content_19>
+		<tutorial_content_20>현재 생산 가능 기종은 패스파인더 뿐 입니다만 공장 레벨이 올라갈수록 더욱 강력한 기종들을 생산해낼 수 있습니다. 중요한 점은 최대 4가지 기종까지만 생산할 수 있는 점을 유의하시기 바랍니다. 그럼 패스파인더 1대를 생산해보죠.</tutorial_content_20>
+		<tutorial_content_22>출격이 임박하였으니 메달을 사용하여 폭격기 생산을 즉시 완료 시키세요.</tutorial_content_22>
+		<tutorial_content_23>자 그럼 폭격기가 준비 되었으니 출격의 시간 입니다. 닫기 버튼을 터치하세요.</tutorial_content_23>
+		<tutorial_content_24>표시되고 있는 왼쪽 하단의 공격 메뉴를 터치해보죠.</tutorial_content_24>
+		<tutorial_content_25>공격 모드는 PVP 와 캠페인 모드로 나누어 집니다. 캠페인 모드에서는 다양한 전술을 구사해 봄으로서 전투 능력을 향상 시킬 수 있을 것입니다. PVP 모드에서 상대 찾기 버튼을 터치해보죠.</tutorial_content_25>
+		<tutorial_content_26>상대 기지의 일부를 탐색 했습니다. 전투의 승패는 커맨드 센터의 파괴 여부에 의해 결정되는 점을 잊지 마세요. 그럼 준비가 되셨다면 공격개시 버튼을 터치하세요.</tutorial_content_26>
+		<tutorial_content_27>현재 출격 가능한 폭격기를 터치하세요.</tutorial_content_27>
+		<tutorial_content_28>실제 전투 시 어느 방향으로도 폭격기를 출격 시킬 수 있습니다. 추천 방향으로 선을 그리면 그 방향으로 폭격기가 출격 합니다.</tutorial_content_28>
+		<tutorial_content_31>상대 기지의 커맨드 센터가 폭격 지점에 잡혔습니다. 지금입니다! 발사 버튼을 눌러 폭탄을 투하하세요!</tutorial_content_31>
+		<tutorial_content_32>잘 하셨습니다! 상대 기지의 커맨드 센터가 완파 되었습니다!</tutorial_content_32>
+		<tutorial_content_39>축하합니다 사령관! 첫 폭격을 성공적으로 마쳤습니다!</tutorial_content_39>
+		<tutorial_content_40>피해를 입은 폭격기는 다음 출격을 위해 격납고에서 수리가 가능합니다. 그럼 격납고로 이동하여 수리를 해보죠.</tutorial_content_40>
+		<tutorial_content_41>수리 버튼을 터치하면 폭격기가 수리 됩니다. 한가지 기억할 것은 수리중인 폭격기는 전투에 참가할 수 없다는 점입니다.</tutorial_content_41>
+		<tutorial_content_42>닫기 버튼을 터치하여 메인 화면으로 이동하겠습니다.</tutorial_content_42>
+		<tutorial_content_43>공격 및 방어 기록은 전투 로그 메뉴에서 확인 가능합니다. 전투 로그 메뉴를 터치하세요.</tutorial_content_43>
+		<tutorial_content_44>방어 기록 탭을 터치하십시오 </tutorial_content_44>
+		<tutorial_content_45>방어 기록을 수시로 확인하여 우리를 우습게 본 상대들에게 화끈한 맛을 보여주는 것을 잊지 마세요.</tutorial_content_45>
+		<tutorial_content_46>닫기 버튼을 터치 하세요. </tutorial_content_46>
+		<tutorial_content_47>수고하셨습니다. 앞으로 우리 기지를 그 누구보다 더 강력한 기지로 발전 시키기를 바라며 우리 박사들도 사령관을 힘껏 도울 것을 약속합니다. 그럼 행운을 빕니다.</tutorial_content_47>
+	</subview_1>
+	
+	<subview_4>
+		<game_title>Airforce Strike</game_title>
+		<ago>以前</ago>
+		<d>天</d>
+		<h>小時</h>
+		<m>分鐘</m>
+		<s>秒</s>
+		<owned>儲備</owned>
+		<gold>黃金</gold>
+		<iron>鐵</iron>
+		<medal>勳章</medal>
+		<doctor>專家</doctor>
+		<shield>護盾</shield>
+		<doctor_deficit>專家人數不足</doctor_deficit>
+		<wing>機翼徽章</wing>
+		<wing_deficit>機翼徽章不足</wing_deficit>
+		<engineer>工兵</engineer>
+		<total_time>總時間</total_time>
+		<total_cost>總花費</total_cost>
+		<unit>地面部隊</unit>
+		<bomber>轟炸機</bomber>
+		<order>生產</order>
+		<training>訓練</training>
+		<list>列表</list>
+		<unlock>解鎖</unlock>
+		<instant>立刻完成</instant>
+		<build>建造</build>
+		<upgrade>升級</upgrade>
+		<infomation>信息</infomation>
+		<total_wings>機翼徽章總數</total_wings>
+		<member>成員</member>
+		<send>發送</send>
+		<ok>確認</ok>
+		<cancel>取消</cancel>
+		<victory>勝利</victory>
+		<defeat>戰敗</defeat>
+		<join>加入</join>
+		<ready>就緒</ready>
+		<reloaded>裝彈完畢</reloaded>
+		<reload>裝彈</reload>
+		<max>最大</max>
+		<maxlevel>最高等級</maxlevel>
+		<cc>C.C</cc>
+		<attack>進攻</attack>
+		<battlelog>戰鬥記錄</battlelog>
+		<chat>聊天</chat>
+		<back>返回</back>
+		<now>剛剛</now>
+		<education>教育</education>
+		<collect>收集</collect>
+		<develop>研發</develop>
+		<developing>正在研發...</developing>
+		<use>使用</use>
+		<using>正在使用...</using>
+		<log_gotten>獲取：</log_gotten>
+		<log_lost>損失：</log_lost>
+		<low>低</low>
+		<normal>正常</normal>
+		<high>高</high>
+		<quit>退出</quit>
+		<full>全部</full>
+		<remove>移除</remove>
+		<victory_bonus>連勝獎勵</victory_bonus>
+		<upgrade_complete>完成</upgrade_complete>
+		<build_complete>完成</build_complete>
+		
+		<bomber_factory_message_0>儲量</bomber_factory_message_0>
+		<bomber_factory_message_1>轟炸機正在生產中</bomber_factory_message_1>
+
+		<hangar_message_0>正在維修</hangar_message_0>
+		<hangar_message_1>維修</hangar_message_1>
+		<hangar_message_2>全部維修</hangar_message_2>
+
+		<alliance_message_0>我的聯盟</alliance_message_0>
+		<alliance_message_1>創建</alliance_message_1>
+		<alliance_message_2>刷新</alliance_message_2>
+		<alliance_message_3>在联合部队内部，玩家可以提供或接收专家。同时，玩家还可以请求一位指挥官替代自己实施报复攻击。</alliance_message_3>
+		<alliance_message_4>您沒有加入任何联盟！ </alliance_message_4>
+		<alliance_message_5>退出聯盟</alliance_message_5>
+
+		<alliance_start_message_0>新建聯盟</alliance_start_message_0>
+		<alliance_start_message_1>選擇一個標誌</alliance_start_message_1>
+		<alliance_start_message_2>創建</alliance_start_message_2>
+		<alliance_start_message_3>名稱</alliance_start_message_3>
+		<alliance_start_message_4>徽標</alliance_start_message_4>
+		<alliance_start_message_5>聯盟加入條件</alliance_start_message_5>
+
+		<battle_message_0>重新尋找</battle_message_0>
+		<battle_message_1>撤退</battle_message_1>
+		<battle_message_2>進攻</battle_message_2>
+		<battle_message_3>完成</battle_message_3>
+		<battle_message_4>ICBM</battle_message_4>
+		<battle_message_5>發射</battle_message_5>
+		<battle_message_6>總破壞率</battle_message_6>
+		<battle_message_7>損失轟炸機</battle_message_7>un
+		<battle_message_8>勝利消息</battle_message_8>
+		<battle_message_9>返回</battle_message_9>
+		<battle_message_left_flight>剩餘進攻次數</battle_message_left_flight>
+		<battle_message_select_launch_position>選擇ICBM打擊位置。 </battle_message_select_launch_position>
+
+		<attack_list_message_0>PVP</attack_list_message_0>
+		<attack_list_message_1>單人遊戲</attack_list_message_1>
+		<attack_list_message_2>尋找進攻目標</attack_list_message_2>
+		<attack_list_message_3>進攻</attack_list_message_3>
+
+		<battle_log_message_0>進攻記錄</battle_log_message_0>
+		<battle_log_message_1>防守記錄</battle_log_message_1>
+		<battle_log_message_2>我方被毀轟炸機</battle_log_message_2>
+		<battle_log_message_3>摧毀敵方轟炸機</battle_log_message_3>
+		<battle_log_message_4>復仇</battle_log_message_4>
+
+		<achievement_title>任務</achievement_title>
+		<achievement_message_0>升級指揮中心</achievement_message_0>
+		<achievement_message_1>獲取敵方專家</achievement_message_1>
+		<achievement_message_2>獲取敵方黃金</achievement_message_2>
+		<achievement_message_3>獲取敵方的鐵</achievement_message_3>
+		<achievement_message_4>獲得機翼徽章</achievement_message_4>
+		<achievement_message_5>研發一項新技術</achievement_message_5>
+		<achievement_message_6>作戰勝利</achievement_message_6>
+		<achievement_message_7>摧毀敵方實驗室</achievement_message_7>
+		<achievement_message_8>您擁有的2級機庫的數量</achievement_message_8> 
+		<achievement_message_9>在戰役關卡中獲得的最高星級</achievement_message_9>
+
+		<rank_title>排名</rank_title>
+		<rank_message_0>玩家排名</rank_message_0>
+		<rank_message_1>聯盟排名</rank_message_1>
+
+		<upgrade_cclv_deficit>升級該建築要求您的指揮中心達到{0}級或以上。 </upgrade_cclv_deficit>
+		<upgrade_armorylv_deficit>升級該建築要求您的兵工廠達到{0}級或以上。 </upgrade_armorylv_deficit>
+
+		<inapp_title_0>補給站</inapp_title_0>
+		<inapp_title_1>獲取一個工兵</inapp_title_1>
+		<inapp_bonus>獎勵</inapp_bonus>
+		<inapp_package>套餐</inapp_package>
+		<inapp_small>小型</inapp_small>
+		<inapp_medium>中型</inapp_medium>
+		<inapp_large>大型</inapp_large>
+		<inapp_huge>巨星</inapp_huge>
+		<inapp_massive>超巨型</inapp_massive>
+		<inapp_half>設為一半</inapp_half>
+		<inapp_full>設為全部</inapp_full>
+
+		<message_rcv_title>收到消息</message_rcv_title>
+		<message_snd_title>發送消息</message_snd_title>
+		<message_notice_title>通知</message_notice_title>
+		<message_noreceive>無消息</message_noreceive>
+		<message_nosend>無消息</message_nosend>
+		<message_pullrefresh>拖拽更新數據</message_pullrefresh>
+		<message_placerefresh>鬆開拖拽以刷新數據</message_placerefresh>
+
+		<laboratory_message_0>能夠擴展偵測區域，根據指揮中心等級的不同，您可以額外偵測1個區域。 </laboratory_message_0>
+		<laboratory_message_1>能夠建造誘餌指揮中心，借助誘餌指揮中心迷惑敵方的轟炸機。 </laboratory_message_1>
+		<laboratory_message_2>為轟炸機增加隱形功能，允許一架轟炸機使用一次，隱形功能可持續10秒鐘。 </laboratory_message_2>
+		<laboratory_message_3>使指揮中心的耐久度提高30%，該效果持續24小時。 </laboratory_message_3>
+		<laboratory_message_4>能夠建造兩座誘餌指揮中心，借助誘餌指揮中心迷惑敵方的轟炸機。 </laboratory_message_4>
+		<laboratory_message_5>使指揮中心的耐久度提高50%，該效果持續24小時。 </laboratory_message_5>
+		<laboratory_message_6>為轟炸機增加隱形功能，允許兩架轟炸機共使用兩次，隱形功能可持續10秒鐘。 </laboratory_message_6>
+		<laboratory_message_7>獲得護盾技術，使您的基地24小時免受入侵。 </laboratory_message_7>
+		<laboratory_message_8>能夠擴展偵測區域，偵測敵方基地5次，不受您的指揮中心的等級限制。 </laboratory_message_8>
+		<laboratory_message_9>反隱形雷達技術。使您能夠偵測隱形轟炸機，該效果持續24小時。 </laboratory_message_9>
+		<laboratory_message_10>能夠擴展偵測區域，完整偵測敵方基地10次，不受您的指揮中心的等級限制。 </laboratory_message_10>
+		<laboratory_message_11>獲得護盾技術，使您的基地48小時免受入侵。 </laboratory_message_11>
+		<laboratory_message_12>反隱形雷達技術。使您能夠偵測隱形轟炸機，該效果持續48小時。 </laboratory_message_12>
+		<laboratory_message_13>能夠擴展偵測區域，完整偵測敵方基地15次，不受您的指揮中心的等級限制。 </laboratory_message_13>
+		<laboratory_message_14>獲得護盾技術，使您的基地168小時免受入侵。 </laboratory_message_14>
+		<laboratory_message_15>反隱形雷達技術。使您能夠偵測隱形轟炸機，該效果持續72小時。 </laboratory_message_15>
+
+		<option_message_1>背景音樂</option_message_1>
+		<option_message_2>音效</option_message_2>
+		<option_message_3>畫面質量</option_message_3>
+		<option_message_4>語言</option_message_4>
+		<option_message_5>如果您以來賓身份登錄，建議您將游戲進度關聯至您的社交平台賬號以便保存完整信息。 </option_message_5>
+		<option_message_6>登錄賬號</option_message_6>
+		<option_message_7>更換賬號</option_message_7>
+		<option_message_8>切換</option_message_8>
+		<option_message_9>如果您想在另一台設備上進行遊戲，您可以從服務器獲得一組代碼，在另一台設備中輸入。 </option_message_9>
+		<option_message_10>獲取一組代碼</option_message_10>
+		<option_message_11>輸入一組代碼</option_message_11>
+		<option_message_12>您可以在您可以在Facebook上獲得有關Airforce Strike的最新信息。 </option_message_12>
+		<option_message_13>在Twitter上關注Airforce Strike，獲取遊戲最新情報。 </option_message_13>
+		<option_message_14>遊戲提示</option_message_14>
+		<option_message_15>製作人員</option_message_15>
+		<option_message_16>遊戲設置</option_message_16>
+		<option_message_17>賬號設置</option_message_17>
+		<option_message_18>更多內容</option_message_18>
+		<option_message_19>遊戲選項</option_message_19>
+		<option_message_20>彈出提示</option_message_20>
+
+		<register_message_0>基地名稱（2 - 20個字符）</register_message_0>
+		<register_message_1>註冊</register_message_1>
+
+		<laboratory_required>實驗室&#10;等級需{0}級</laboratory_required>
+		<factory_required>轟炸機製造廠&#10;等級需{0}級</factory_required>
+		<armory_required>兵工廠&#10;等級需{0}級</armory_required>
+		<techcenter_required>科技中心&#10;等級需Lv.{0}級</techcenter_required>
+		<cc_required>指揮中心{0}級 </cc_required>
+		<cc_maxbuild>建築數量已達上限</cc_maxbuild>
+
+		<tip_title>遊戲提示：</tip_title>
+		<tip_0>在戰役模式中獲得3星評價即可獲得一個專家。</tip_0>
+		<tip_1>如果沒有將游戲進度關聯至社交平台賬號，一旦遇到問題將很難恢復。</tip_1>
+		<tip_2>在PvP戰鬥中，對敵方基地摧毀比率越高，則獲得的專家越多。</tip_2>
+		<tip_3>只有PvP戰鬥中的成就才能給予資源獎勵。</tip_3>
+		<tip_4>如果您具備了反隱形雷達科技，則所有地面單位都將能夠偵測隱形轟炸機。</tip_4>
+		<tip_5>如果您在戰役的某關卡中獲得了所有資源和3星評價，則關卡的所有戰爭迷霧都會消失。</tip_5>
+		<tip_6>如果您同時擁有“完整偵測技術”和“擴展偵測區域技術”，則遊戲會優先使用後者。</tip_6>
+		<tip_7>戰鬥獲勝後，對手將收到被您擊敗的消息。</tip_7>
+		<tip_8>被敵人摧毀的指揮中心在點擊後將自動重建。</tip_8>
+		<tip_9>如需幫助，請隨時與管理員取得聯繫。</tip_9>
+		<tip_10>要獲取專家，您必須先建造學院。</tip_10>
+		<tip_11>如果您在一場戰鬥勝利時損失的轟炸機不超過2架，那麼您便取得了絕對勝利。</tip_11>
+		<tip_12>按住您收到的消息便可以進行複制。</tip_12>
+		<tip_13>您只能建造一座誘餌指揮中心。</tip_13>
+
+		<notification_content_0> {2}（等級{1}）已建成。</notification_content_0>
+		<notification_content_1>所有轟炸機均已生產完畢。</notification_content_1>
+		<notification_content_2>專家已無額外工作空間。</notification_content_2>
+		<notification_content_3> {2}（等級{1}）已完成升級。</notification_content_3>
+		<notification_content_4>實驗室所有科技均已研發完成。</notification_content_4>
+		<notification_content_5> {0}導彈已裝填完畢。</notification_content_5>
+		<notification_content_6>護盾即將失效。</notification_content_6>
+
+		<quit_message>是否要退出遊戲？</quit_message>
+
+		<being_attacked_message>您正遭到敵人襲擊。&#10;請稍後重試。 </being_attacked_message>
+		
+		<tutorial_content_0>指揮官，雖然您已憑藉巨大的勇氣完成了您的使命，但此刻戰鬥再次需要您。歡迎重返基地！</tutorial_content_0>
+		<tutorial_content_1>基地建造已就緒，只待以您的指揮才能為其增添異彩。</tutorial_content_1>
+		<tutorial_content_2>打造一個強大的基地需要大量的資​​源，您首先需要建造一處生產設施。不過好在除了靠自己生產以外，我們可以通過進攻其它基地獲取資源。 </tutorial_content_2>    
+		<tutorial_content_4>就讓我們從金礦和鐵礦的建造開始吧！</tutorial_content_4>      
+		<tutorial_content_5>生產轟炸機和建造防禦設施需要消耗黃金。</tutorial_content_5>
+		<tutorial_content_6>現在就建造一處金礦吧。</tutorial_content_6>
+		<tutorial_content_7>金礦正在建造中，您可以使用勳章來加速建築的建造和升級過程。</tutorial_content_7>      
+		<tutorial_content_8>金礦已成功建成。</tutorial_content_8>
+		<tutorial_content_9>讓我們再來建造一處鐵礦吧，建造各種設施需要消耗鐵。 </tutorial_content_9>   
+		<tutorial_content_10>現在就建造一處鐵礦吧。 </tutorial_content_10>
+		<tutorial_content_11>鐵礦正在建造中，您可以使用勳章來加速建築的建造和升級過程。</tutorial_content_11>      
+		<tutorial_content_12>鐵礦已成功建成。 </tutorial_content_12>
+		<tutorial_content_13>進攻對手的基地需要用到轟炸機，要生產轟炸機，您首先要建造機庫。每種轟炸機的體積不同，隨著機庫的升級，機庫可以容納更多的轟炸機。 </tutorial_content_13>        
+		<tutorial_content_14>現在就建造一處機庫吧。</tutorial_content_14>
+		<tutorial_content_15>機庫正在建造中，使用勳章來加速建築過程。 </tutorial_content_15>      
+		<tutorial_content_16>機庫已成功建成。我們來生產一架轟炸機。您可以在轟炸機製造廠生產轟炸機。</tutorial_content_16>  
+		<tutorial_content_17>現在就建造一處轟炸機製造廠吧。</tutorial_content_17>
+		<tutorial_content_18>轟炸機製造廠正在建造中，您可以使用勳章來加速建築的建造和升級過程。</tutorial_content_18>
+		<tutorial_content_19>轟炸機製造廠已建成，讓我們先來查看一下這座建築。 </tutorial_content_19>
+		<tutorial_content_20>您現在只能製造“探路者”，隨著建築等級的提高，您可以製造更多型號的機型。但您同時只能製造4種不同的戰鬥機。現在就製造一架探路者吧。 </tutorial_content_20>   
+		<tutorial_content_22>我們需要爭分奪秒，使用勳章加速製造吧。</tutorial_content_22>  
+		<tutorial_content_23>轟炸機已就緒，是時候進攻對手的基地了。請點擊“關閉”按鈕。</tutorial_content_23>   
+		<tutorial_content_24>請點擊界面左下角的“進攻”選單。 </tutorial_content_24>   
+		<tutorial_content_25>進攻行動分為PvP和單人模式兩種。您可以在單人模式中通過練習各種戰術以提高作戰技巧，也可以在PvP模式中點擊“尋找對手“按鈕進行對戰。 </tutorial_content_25>
+		<tutorial_content_26>您已對一個對手的基地做了一定的偵查，戰鬥的勝負取決於對手的指揮中心是否被摧毀。 </tutorial_content_26>     
+		<tutorial_content_27>請選擇一架可用的轟炸機。 </tutorial_content_27>     
+		<tutorial_content_28>您可以確認轟炸機在實戰中的飛行軌跡。當您劃定一條作戰參考路線後，轟炸機便將遵循該路線進行飛行。 </tutorial_content_28>    
+		<tutorial_content_31>對手指揮中心的位置已暴露，現在，點擊“轟炸”按鈕，投下一顆炸彈！ </tutorial_content_31>   
+		<tutorial_content_32>幹得漂亮！對手的指揮中心已被摧毀。 </tutorial_content_32>   
+		<tutorial_content_39>祝賀您，指揮官。您已經成功完成了您的第一次作戰。 </tutorial_content_39>  
+		<tutorial_content_40>受損的轟炸機可以在機庫中進行維修，以便再次參與作戰。現在就前往機庫對轟炸機進行維修吧。 </tutorial_content_40>  
+		<tutorial_content_41>點擊“維修”按鈕，轟炸機的維修便會開始。您需要注意的是，正在維修的轟炸機無法參與作戰。 </tutorial_content_41>  
+		<tutorial_content_42>請點擊“關閉”按鈕返回基地界面。 </tutorial_content_42>    
+		<tutorial_content_43>您可以在作戰記錄菜單中查看進攻和防守記錄。請點擊“作戰記錄”菜單。 </tutorial_content_43>   
+		<tutorial_content_44>請點擊防守記錄。 </tutorial_content_44>     
+		<tutorial_content_45>時常查看防守記錄，隨時給入侵者一點顏色看看。 </tutorial_content_45>    
+		<tutorial_content_46>請點擊“關閉”按鈕。 </tutorial_content_46>
+		<tutorial_content_47>祝賀您，您已經了解了遊戲的基本操作。希望您能夠不斷提高排名，打造最強的基地。</tutorial_content_47>
+	</subview_4>
+	
+	<subview_5>
+		<game_title>エアフォースストライク</game_title>
+		<ago> 前</ago>
+		<d>日</d>
+		<h>時間</h>
+		<m>分</m>
+		<s>秒</s>
+		<owned>保有</owned>
+		<gold>ゴールド</gold>
+		<iron>鉄</iron>
+		<medal>メダル</medal>
+		<doctor>博士</doctor>
+		<shield>シールド</shield>
+		<doctor_deficit>博士が足りないです。</doctor_deficit>
+		<wing>ウィング</wing>
+		<wing_deficit>ウィングが足りないです。</wing_deficit>
+		<engineer>工兵隊</engineer>
+		<total_time>総時間</total_time>
+		<total_cost>総費用</total_cost>
+		<unit>ユニット</unit>
+		<bomber>爆撃機</bomber>
+		<order>生産</order>
+		<training>軍連</training>
+		<list>リスト</list>
+		<unlock>ロック解除</unlock>
+		<instant>直ぐ完了</instant>
+		<build>建設</build>
+		<upgrade>アップグレード</upgrade>
+		<infomation>情報</infomation>
+		<total_wings>ウィング合計</total_wings>
+		<member>メンバー</member>
+		<send>送信</send>
+		<ok>確認</ok>
+		<cancel>キャンセル</cancel>
+		<victory>勝利</victory>
+		<defeat>敗北</defeat>
+		<join>加入</join>
+		<ready>準備完了</ready>
+		<reloaded>発射準備完了</reloaded>
+		<reload>リロード</reload>
+		<max>最大</max>
+		<maxlevel>最大レベル</maxlevel>
+		<cc>コマンドセンター</cc>
+		<attack>攻撃</attack>
+		<battlelog>戦闘ログ</battlelog>
+		<chat>チャット</chat>
+		<back>戻る</back>
+		<now>今ほど</now>
+		<education>養成</education>
+		<collect>収集</collect>
+		<develop>開発</develop>
+		<developing>開発中...</developing>
+		<use>使用</use>
+		<using>使用中...</using>
+		<log_gotten>獲得 : </log_gotten>
+		<log_lost>損失: </log_lost>
+		<low>低</low>
+		<normal>標準</normal>
+		<high>高</high>
+		<quit>終了</quit>
+		<full>FULL</full>
+	    <remove>削除します</remove>
+	    <victory_bonus>勝利ボーナス</victory_bonus>
+	    <upgrade_complete>アップグレード完了</upgrade_complete>
+	    <build_complete>建設完了</build_complete>
+
+		<bomber_factory_message_0>格納庫収容規模</bomber_factory_message_0>
+		<bomber_factory_message_1>生産中の爆撃機</bomber_factory_message_1>
+		
+		<hangar_message_0>修理中</hangar_message_0>
+		<hangar_message_1>修理</hangar_message_1>
+		<hangar_message_2>全体修理</hangar_message_2>
+		
+		<alliance_message_0>私の連合</alliance_message_0>
+		<alliance_message_1>創設</alliance_message_1>
+		<alliance_message_2>更新</alliance_message_2>
+		<alliance_message_3>連合軍同士に博士を取り交わすことができますし司令官に報復を要請することもできます。もうすぐ連合軍間の大規模戦闘が展開する諜報があります。</alliance_message_3>
+		<alliance_message_4>加入された連合軍なし!</alliance_message_4>
+		<alliance_message_5>脱会</alliance_message_5>
+		
+		<alliance_start_message_0>新しい連合軍創設</alliance_start_message_0>
+		<alliance_start_message_1>ロゴ選択</alliance_start_message_1>
+		<alliance_start_message_2>創設</alliance_start_message_2>
+		<alliance_start_message_3>連合軍名</alliance_start_message_3>
+		<alliance_start_message_4>シンボル</alliance_start_message_4>
+		<alliance_start_message_5>加入兆件</alliance_start_message_5>
+		
+		<battle_message_0>他の相手探索</battle_message_0>
+		<battle_message_1>後退</battle_message_1>
+		<battle_message_2>攻撃開始</battle_message_2>
+		<battle_message_3>終了</battle_message_3>
+		<battle_message_4>ICBM</battle_message_4>
+		<battle_message_5>発射</battle_message_5>
+		<battle_message_6>総破壊率</battle_message_6>
+		<battle_message_7>失った爆撃機</battle_message_7>
+		<battle_message_8>勝利の一言</battle_message_8>
+		<battle_message_9>戻る</battle_message_9>
+		<battle_message_left_flight>残り出撃回数</battle_message_left_flight>
+		<battle_message_select_launch_position>投下する位置を指定してください。</battle_message_select_launch_position>
+		
+		<attack_list_message_0>PVPモード</attack_list_message_0>
+		<attack_list_message_1>キャンペーンモード</attack_list_message_1>
+		<attack_list_message_2>相手探索</attack_list_message_2>
+		<attack_list_message_3>出撃</attack_list_message_3>
+		
+		<battle_log_message_0>攻撃記録</battle_log_message_0>
+		<battle_log_message_1>防御記録</battle_log_message_1>
+		<battle_log_message_2>破壊された爆撃機</battle_log_message_2>
+		<battle_log_message_3>破壊した爆撃機</battle_log_message_3>
+		<battle_log_message_4>リベンジ</battle_log_message_4>
+		
+		<achievement_title>業績</achievement_title>
+		<achievement_message_0>コマンドセンターアップグレード</achievement_message_0>
+		<achievement_message_1>相手から博士獲得</achievement_message_1>
+		<achievement_message_2>相手からゴールド獲得</achievement_message_2>
+		<achievement_message_3>相手から鉄獲得</achievement_message_3>
+		<achievement_message_4>ウィング獲得</achievement_message_4>
+		<achievement_message_5>新技術開発</achievement_message_5>
+		<achievement_message_6>成功的な爆撃</achievement_message_6>
+		<achievement_message_7>相手の研究所破壊</achievement_message_7>
+		<achievement_message_8>あなたが持っているLV2格納庫の数</achievement_message_8>
+		<achievement_message_9>キャンペーンで獲得した星</achievement_message_9>
+		
+		<rank_title>ランキング</rank_title>
+		<rank_message_0>ユーザーランキング</rank_message_0>
+		<rank_message_1>連合軍ランキング</rank_message_1>
+				
+		<upgrade_cclv_deficit>コマンドセンター Lv.{0} 以上からアップグレードできます。</upgrade_cclv_deficit>
+		<upgrade_armorylv_deficit>軍需工場 Lv.{0} 以上からアップグレードできます。</upgrade_armorylv_deficit>
+		
+		<inapp_title_0>軍需基地</inapp_title_0>
+		<inapp_title_1>工兵隊要請</inapp_title_1>
+		<inapp_bonus>ボーナス</inapp_bonus>
+		<inapp_package>パッケージ</inapp_package>
+		<inapp_small>少量</inapp_small>
+		<inapp_medium>中サイズの箱</inapp_medium>
+		<inapp_large>大箱</inapp_large>
+		<inapp_huge>多量の大箱</inapp_huge>
+		<inapp_massive>1トラック</inapp_massive>
+		<inapp_half>半分チャージ</inapp_half>
+		<inapp_full>全てチャージ</inapp_full>
+		
+		<message_rcv_title>受信メッセージ</message_rcv_title>
+		<message_snd_title>送信されたメッセージ</message_snd_title>
+		<message_notice_title>お知らせ</message_notice_title>
+		<message_noreceive>受信メッセージなし</message_noreceive>
+		<message_nosend>送信メッセージなし</message_nosend>
+		<message_pullrefresh>更新するなら引っ張ってください。</message_pullrefresh>
+		<message_placerefresh>更新するなら手を離してください。</message_placerefresh>
+		
+		<laboratory_message_0>探索機能拡張技術。コマンドセンターレベルによる探索の上に一場所を追加的に探索できます。</laboratory_message_0>
+		<laboratory_message_1>フェイクコマンドセンター1つ建設技術。フェイクコマンドセンターで相手を攪乱させることができます。</laboratory_message_1>
+		<laboratory_message_2>爆撃機にステルス機能追加技術。1回(1台)出撃基準の技術で、ステルス時間は10秒です。</laboratory_message_2>
+		<laboratory_message_3>コマンドセンターの体力が30％増加させ、効果は24時間続きます。</laboratory_message_3>
+		<laboratory_message_4>フェイクコマンドセンター２つ建設技術。フェイクコマンドセンターで相手を攪乱させることができます。</laboratory_message_4>
+		<laboratory_message_5>コマンドセンターの体力が50％増加し、効果は48時間続きます。</laboratory_message_5>
+		<laboratory_message_6>爆撃機にステルス機能追加。２回(２台)出撃基準の技術で、ステルス時間は10秒です。</laboratory_message_6>
+		<laboratory_message_7>シールド機能。24時間間、相手から攻撃を受けないようにする技術です。</laboratory_message_7>
+		<laboratory_message_8>探索機能拡張技術。コマンドセンターのレベルにかかわらず、相手の基地を全て探索することができます。\n使用可能回数は5回です。</laboratory_message_8>
+		<laboratory_message_9>ステルスレーダー技術。ステルス爆撃機を感知できるレーダー技術です。技術は24時間続きます。</laboratory_message_9>
+		<laboratory_message_10>探索機能拡張技術。コマンドセンターのレベルにかかわらず、相手の基地を全て探索することができます。 \n使用可能回数は10回です。</laboratory_message_10>
+		<laboratory_message_11>シールド機能。48時間間、相手から攻撃を受けないようにする技術です。</laboratory_message_11>
+		<laboratory_message_12>ステルスレーダー技術。ステルス爆撃機を感知できるレーダー技術です。技術は48時間続きます。</laboratory_message_12>
+		<laboratory_message_13> 探索機能拡張技術。コマンドセンターのレベルにかかわらず、相手の基地を全て探索することができます。\n使用可能回数は15回です。</laboratory_message_13>
+		<laboratory_message_14>シールド機能。168時間間、相手から攻撃を受けないようにする技術です。</laboratory_message_14>
+		<laboratory_message_15>ステルスレーダー技術。ステルス爆撃機を感知できるレーダー技術です。技術は72時間続きます。</laboratory_message_15>
+		
+		<option_message_1>音楽</option_message_1>
+		<option_message_2>効果音</option_message_2>
+		<option_message_3>グラフィック設定</option_message_3>
+		<option_message_4>言語</option_message_4>
+		<option_message_5>Guestでログインしたのならソーシャルプラットホームと連動してアカウントの情報をセーブしてください。</option_message_5>
+		<option_message_6>連動</option_message_6>
+		<option_message_7>アカウント変更</option_message_7>
+		<option_message_8>変更</option_message_8>
+		<option_message_9>ディバイスを変更してプレイするのならサーバーからコードを発給して、移動するディバイスからコードを入力します。</option_message_9>
+		<option_message_10>コード発給</option_message_10>
+		<option_message_11>コード入力</option_message_11>
+		<option_message_12>エアフォースストライクのFaceBookでは最新ニュースを提供します。</option_message_12>
+		<option_message_13>エアフォースストライクのTwitterをフォローすると最新ニュースを確認できます。</option_message_13>
+		<option_message_14>Tip</option_message_14>
+		<option_message_15>製作</option_message_15>
+		<option_message_16>設定</option_message_16>
+		<option_message_17>アカウント</option_message_17>
+		<option_message_18>その他</option_message_18>
+		<option_message_19>オプション</option_message_19>
+		<option_message_20>アラーム設定</option_message_20>
+		
+		<register_message_0>基地名(最少2文字、最大20文字)</register_message_0>
+		<register_message_1>登録</register_message_1>
+		
+		<laboratory_required>研究所&#10;Lv.{0} 必要</laboratory_required>
+		<factory_required>爆撃機工場&#10;Lv.{0} 必要</factory_required>
+		<armory_required>軍需工場&#10;Lv.{0} 必要</armory_required>
+		<techcenter_required>テクセンター&#10;Lv.{0} 必要</techcenter_required>
+		<cc_required>コマンドセンター Lv.{0} 必要</cc_required>
+		<cc_maxbuild>既に最大数で建設されている</cc_maxbuild>
+		
+		<tip_title>Tip : </tip_title>
+		<tip_0>キャンペーンモードでは星3つを獲得しなければ博士を獲得できます。</tip_0>
+		<tip_1>アカウントを連動しない場合ゲームアカウントの復旧が難しくなることもあります。</tip_1>
+		<tip_2>PVPモードでは破壊率が高いほどもっと多くの博士を獲得できます。</tip_2>
+		<tip_3>資源獲得業績はPVPモードだけで適用されます。</tip_3>
+		<tip_4>ステルスレーダー技術があれば全ての対空ユニットがステルス機を感知することができます。</tip_4>
+		<tip_5>全ての資源を獲得し、星を3つ獲得したキャンペーンでは全ての雲が消されます。</tip_5>
+		<tip_6>完全探索技術と探索拡張技術を同時に保有している場合、探索拡張技術が優先的に使われます。</tip_6>
+		<tip_7>PVP モードで勝利した場合、相手に勝利のメッセージを残すことができます。</tip_7>
+		<tip_8>相手の爆撃で破壊されたコマンドセンターはタッチすると自動的に復旧されます。</tip_8>
+		<tip_9>何か用がありましたらいつでも運営者にメッセージを送ってください。</tip_9>
+		<tip_10>アカデミーを建設していないと博士を獲得できません。</tip_10>
+		<tip_11>成功的な爆撃の基準は爆撃機の損失を3台未満で勝利した場合です。</tip_11>
+		<tip_12>受けたメッセージを長くタッチするとメッセージをコピーできます。</tip_12>
+	　　　<tip_13>フェイクコマンドセンターは最大1軒だけ建設できます。</tip_13>
+		
+		<notification_content_0>{0}(Lv.{1})の {2}が完了されました。</notification_content_0>
+		<notification_content_1>全ての爆撃機の生産が完了されました。</notification_content_1>
+		<notification_content_2>博士養成が完了されました。</notification_content_2>
+		<notification_content_3>{0} {1}(Lv.{2})のアップグレードが完了されました。</notification_content_3>
+		<notification_content_4>戦略研究所の全ての技術開発が完了されました。</notification_content_4>
+		<notification_content_5>{0}のミサイルがリロードされました。</notification_content_5>
+		<notification_content_6>シールド技術がまもなく満了します。</notification_content_6>
+		
+		<quit_message>ゲームを終了しますか?</quit_message>
+		
+		<being_attacked_message>現在相手から攻撃を受けています。&#10;しばらくしてから再度試してください。</being_attacked_message>
+	
+		<tutorial_content_0>司令官!今までの戦闘で疲れているのは分かるが、まず我々の基地への復帰を歓迎します。</tutorial_content_0>
+		<tutorial_content_1>我々の基地は構築されたばかりなので司令官の卓越した指揮が切実な状況です。</tutorial_content_1>
+		<tutorial_content_2>まず、強力な基地を構築するには多くの資源が必要なので先に資源生産施設を建設する必要があります。 幸いにして資源はうちの基地から生産して得る方法以外にも相手の基地を攻撃して得られます。</tutorial_content_2>
+		<tutorial_content_4>さあ、それでは急いでゴールドの生産施設と鉄の生産施設を建設してみましょう。</tutorial_content_4>
+		<tutorial_content_5>ゴールドは爆撃機生産及び防御施設の建設する時に使われます。</tutorial_content_5>
+		<tutorial_content_6>まず、ゴールド生産施設を建設してみましょう。</tutorial_content_6>
+		<tutorial_content_7>ゴールド生産施設が建設中です。施設物の建設やアップグレードの際メダルを使って時間を短縮させられます。</tutorial_content_7>
+		<tutorial_content_8>ゴールド生産施設が建設されました。</tutorial_content_8>
+		<tutorial_content_9>続いて、鉄生産施設を建設してみましょう。鉄は施設物を建設する時に使われます。</tutorial_content_9>
+		<tutorial_content_10>鉄生産施設を建設してみましょう。</tutorial_content_10>
+		<tutorial_content_11>鉄生産施設が建設中です。施設物の建設やアップグレードの際メダルを使って時間を短縮させられます。</tutorial_content_11>
+		<tutorial_content_12>鉄生産施設が建設されました。</tutorial_content_12>
+		<tutorial_content_13>相手の基地の攻撃に必要な爆撃機を生産するには先に格納庫が建設されていなければなりません。それぞれの爆撃機は格納庫を占める面積が違います。格納庫をアップグレードするほどより多くの爆撃機を保管できます。 </tutorial_content_13>
+		<tutorial_content_14>さあ、それでは格納庫を建設してみましょうか？</tutorial_content_14>
+		<tutorial_content_15>格納庫が建設中です。メダルを使って建設を直ぐ完了してください。</tutorial_content_15>
+		<tutorial_content_16>格納庫も建設したからそれでは爆撃機を生産してみましょう。爆撃機は爆撃機工場から生産できます。</tutorial_content_16>
+		<tutorial_content_17>爆撃機工場を建設してみましょう。</tutorial_content_17>
+		<tutorial_content_18>爆撃機工場が建設中です。施設物の建設やアップグレードの際メダルを使って時間を短縮させられます。</tutorial_content_18>
+		<tutorial_content_19>爆撃機工場の建設が完了されました。爆撃機工場へ移動してみましょう。</tutorial_content_19>
+		<tutorial_content_20>現在はパスファインダー機種だけ生産できますが、工場のレベルが上がるほどもっと強力な機種を生産できます。ここで重要なことは機種は最大4種類まで生産できることです。それではパスファインダー1台を生産してみましょう。</tutorial_content_20>
+		<tutorial_content_22>出撃が目前です。メダルを使って爆撃機の生産を直ぐ完了してください。</tutorial_content_22>
+		<tutorial_content_23>さあ、爆撃機も準備できました。出撃の時です!Ｘボタンをタッチしてください。</tutorial_content_23>
+		<tutorial_content_24>表示されている左下段の攻撃ボタンをタッチしてみましょう。</tutorial_content_24>
+		<tutorial_content_25>攻撃モードはPVPとキャンペーンモードで分かれます。キャンペーンモードでは様々な戦術を駆使して戦闘能力を向上させられます。それではPVPモードで相手を検索してみましょう。検索ボタンをタッチしてください。</tutorial_content_25>
+		<tutorial_content_26>相手の基地の一部を探索しました。戦闘の勝敗はコマンドセンターの破壊可否によって決定されることを覚えてください。全ての準備ができましたら攻撃開始ボタンをタッチしてください。</tutorial_content_26>
+		<tutorial_content_27>現在出撃可能な爆撃機をタッチしてください。</tutorial_content_27>
+		<tutorial_content_28>実際の戦闘の時にはどんな方向でも爆撃機を出撃させられます。画面に表示されている方向に線を引くとその方向に爆撃機が出撃します。</tutorial_content_28>
+		<tutorial_content_31>相手に基地のコマンドセンターが爆撃射程に入って来ました。今です!発射ボタンをタッチして爆弾を投下してください!</tutorial_content_31>
+		<tutorial_content_32>よくやりました!相手の基地のコマンドセンターが完璧に破壊されました!</tutorial_content_32>
+		<tutorial_content_39>司令官おめでとうございます!初爆撃を成功的に終えました!</tutorial_content_39>
+		<tutorial_content_40>被害を受けた爆撃機は次の出撃のため格納庫から修理できます。格納庫に移動して修理してみましょう。</tutorial_content_40>
+		<tutorial_content_41>修理ボタンをタッチして爆撃機を修理します。修理中の爆撃機は戦闘に出撃できないことを覚えてください。</tutorial_content_41>
+		<tutorial_content_42>Xボタンをタッチしてメイン画面に移動します。</tutorial_content_42>
+		<tutorial_content_43>攻撃及び防御ログはログメニューから確認できます。戦闘ログメニューをタッチしてください。</tutorial_content_43>
+		<tutorial_content_44>防御ログをタッチしてください。</tutorial_content_44>
+		<tutorial_content_45>防御ログを随時に確認して我々を甘く見た相手に痛い目にあわせることも忘れないでください。</tutorial_content_45>
+		<tutorial_content_46>Xボタンをタッチしてください。</tutorial_content_46>
+		<tutorial_content_47>お疲れさまでした。これから我々の基地を誰よりも強力な基地に発展させることを祈りながら我々博士達もよろこんで力添えることを約束します。幸運を祈ります!</tutorial_content_47>
+	</subview_5>
+	
+	<subview_6>
+		<game_title>Airforce Strike</game_title>
+		<ago>以前</ago>
+		<d>天</d>
+		<h>小时</h>
+		<m>分钟</m>
+		<s>秒</s>
+		<owned>储备</owned>
+		<gold>黄金</gold>
+		<iron>铁</iron>
+		<medal>勋章</medal>
+		<doctor>专家</doctor>
+		<shield>护盾</shield>
+		<doctor_deficit>专家人数不足</doctor_deficit>
+		<wing>机翼徽章</wing>
+		<wing_deficit>机翼徽章不足</wing_deficit>
+		<engineer>工兵</engineer>
+		<total_time>总时间</total_time>
+		<total_cost>总花费</total_cost>
+		<unit>地面部队</unit>
+		<bomber>轰炸机</bomber>
+		<order>生产</order>
+		<training>训练</training>
+		<list>列表</list>
+		<unlock>解锁</unlock>
+		<instant>立刻完成</instant>
+		<build>建造</build>
+		<upgrade>升级</upgrade>
+		<infomation>信息</infomation>
+		<total_wings>机翼徽章总数</total_wings>
+		<member>成员</member>
+		<send>发送</send>
+		<ok>确认</ok>
+		<cancel>取消</cancel>
+		<victory>胜利</victory>
+		<defeat>战败</defeat>
+		<join>加入</join>
+		<ready>就绪</ready>
+		<reloaded>装弹完毕</reloaded>
+		<reload>装弹</reload>
+		<max>最大</max>
+		<maxlevel>最高等级</maxlevel>
+		<cc>C.C</cc>
+		<attack>进攻</attack>
+		<battlelog>战斗记录</battlelog>
+		<chat>聊天</chat>
+		<back>返回</back>
+		<now>刚刚</now>
+		<education>教育</education>
+		<collect>收集</collect>
+		<develop>研发</develop>
+		<developing>正在研发...</developing>
+		<use>使用</use>
+		<using>正在使用...</using>
+		<log_gotten>获取：</log_gotten>
+		<log_lost>损失：</log_lost>
+		<low>低</low>
+		<normal>正常</normal>
+		<high>高</high>
+		<quit>退出</quit>
+		<full>全部</full>
+		<remove>移除</remove>
+		<victory_bonus>连胜奖励</victory_bonus>
+		<upgrade_complete>完成</upgrade_complete>
+		<build_complete>完成</build_complete>
+
+		<bomber_factory_message_0>储量</bomber_factory_message_0>
+		<bomber_factory_message_1>轰炸机正在生产中</bomber_factory_message_1>
+		
+		<hangar_message_0>正在维修</hangar_message_0>
+		<hangar_message_1>维修</hangar_message_1>
+		<hangar_message_2>全部维修</hangar_message_2>
+		
+		<alliance_message_0>我的联盟</alliance_message_0>
+		<alliance_message_1>创建</alliance_message_1>
+		<alliance_message_2>刷新</alliance_message_2>
+		<alliance_message_3>在联合部队内部，玩家可以提供或接收专家。同时，玩家还可以请求一位指挥官替代自己实施报复攻击。</alliance_message_3>
+		<alliance_message_4>您没有加入任何联盟！</alliance_message_4>
+		<alliance_message_5>退出联盟</alliance_message_5>
+		
+		<alliance_start_message_0>新建联盟</alliance_start_message_0>
+		<alliance_start_message_1>选择一个标志</alliance_start_message_1>
+		<alliance_start_message_2>创建</alliance_start_message_2>
+		<alliance_start_message_3>名称</alliance_start_message_3>
+		<alliance_start_message_4>徽标</alliance_start_message_4>
+		<alliance_start_message_5>联盟加入条件</alliance_start_message_5>
+		
+		<battle_message_0>重新寻找</battle_message_0>
+		<battle_message_1>撤退</battle_message_1>
+		<battle_message_2>进攻</battle_message_2>
+		<battle_message_3>完成</battle_message_3>
+		<battle_message_4>ICBM</battle_message_4>
+		<battle_message_5>发射</battle_message_5>
+		<battle_message_6>总破坏率</battle_message_6>
+		<battle_message_7>损失轰炸机</battle_message_7>un
+		<battle_message_8>胜利消息</battle_message_8>
+		<battle_message_9>返回</battle_message_9>
+		<battle_message_left_flight>剩余进攻次数</battle_message_left_flight>
+		<battle_message_select_launch_position>选择ICBM打击位置。</battle_message_select_launch_position>
+		
+		<attack_list_message_0>PVP</attack_list_message_0>
+		<attack_list_message_1>单人游戏</attack_list_message_1>
+		<attack_list_message_2>寻找进攻目标</attack_list_message_2>
+		<attack_list_message_3>进攻</attack_list_message_3>
+		
+		<battle_log_message_0>进攻记录</battle_log_message_0>
+		<battle_log_message_1>防守记录</battle_log_message_1>
+		<battle_log_message_2>我方被毁轰炸机</battle_log_message_2>
+		<battle_log_message_3>摧毁敌方轰炸机</battle_log_message_3>
+		<battle_log_message_4>复仇</battle_log_message_4>
+		
+		<achievement_title>任务</achievement_title>
+		<achievement_message_0>升级指挥中心</achievement_message_0>
+		<achievement_message_1>获取敌方专家</achievement_message_1>
+		<achievement_message_2>获取敌方黄金</achievement_message_2>
+		<achievement_message_3>获取敌方的铁</achievement_message_3>
+		<achievement_message_4>获得机翼徽章</achievement_message_4>
+		<achievement_message_5>研发一项新技术</achievement_message_5>
+		<achievement_message_6>作战胜利</achievement_message_6>
+		<achievement_message_7>摧毁敌方实验室</achievement_message_7>
+	    <achievement_message_8>您拥有的2级机库的数量</achievement_message_8> 
+		<achievement_message_9>在战役关卡中获得的最高星级</achievement_message_9>
+		
+		<rank_title>排名</rank_title>
+		<rank_message_0>玩家排名</rank_message_0>
+		<rank_message_1>联盟排名</rank_message_1>
+				
+		<upgrade_cclv_deficit>升级该建筑要求您的指挥中心达到{0}级或以上。</upgrade_cclv_deficit>
+		<upgrade_armorylv_deficit>升级该建筑要求您的兵工厂达到{0}级或以上。</upgrade_armorylv_deficit>
+		
+		<inapp_title_0>补给站</inapp_title_0>
+		<inapp_title_1>获取一个工兵</inapp_title_1>
+		<inapp_bonus>奖励</inapp_bonus>
+		<inapp_package>套餐</inapp_package>
+		<inapp_small>小型</inapp_small>
+		<inapp_medium>中型</inapp_medium>
+		<inapp_large>大型</inapp_large>
+		<inapp_huge>巨星</inapp_huge>
+		<inapp_massive>超巨型</inapp_massive>
+		<inapp_half>设为一半</inapp_half>
+		<inapp_full>设为全部</inapp_full>
+		
+		<message_rcv_title>收到消息</message_rcv_title>
+		<message_snd_title>发送消息</message_snd_title>
+		<message_notice_title>通知</message_notice_title>
+		<message_noreceive>无消息</message_noreceive>
+		<message_nosend>无消息</message_nosend>
+		<message_pullrefresh>拖拽更新数据</message_pullrefresh>
+		<message_placerefresh>松开拖拽以刷新数据</message_placerefresh>
+		
+		<laboratory_message_0>能够扩展侦测区域，根据指挥中心等级的不同，您可以额外侦测1个区域。</laboratory_message_0>
+		<laboratory_message_1>能够建造诱饵指挥中心，借助诱饵指挥中心迷惑敌方的轰炸机。</laboratory_message_1>
+		<laboratory_message_2>为轰炸机增加隐形功能，允许一架轰炸机使用一次，隐形功能可持续10秒钟。</laboratory_message_2>
+		<laboratory_message_3>使指挥中心的耐久度提高30%，该效果持续24小时。</laboratory_message_3>
+		<laboratory_message_4>能够建造两座诱饵指挥中心，借助诱饵指挥中心迷惑敌方的轰炸机。</laboratory_message_4>
+		<laboratory_message_5>使指挥中心的耐久度提高50%，该效果持续24小时。</laboratory_message_5>
+		<laboratory_message_6>为轰炸机增加隐形功能，允许两架轰炸机共使用两次，隐形功能可持续10秒钟。 </laboratory_message_6>
+		<laboratory_message_7>获得护盾技术，使您的基地24小时免受入侵。</laboratory_message_7>
+		<laboratory_message_8>能够扩展侦测区域，侦测敌方基地5次，不受您的指挥中心的等级限制。</laboratory_message_8>
+		<laboratory_message_9>反隐形雷达技术。使您能够侦测隐形轰炸机，该效果持续24小时。</laboratory_message_9>
+		<laboratory_message_10>能够扩展侦测区域，完整侦测敌方基地10次，不受您的指挥中心的等级限制。</laboratory_message_10>
+		<laboratory_message_11>获得护盾技术，使您的基地48小时免受入侵。</laboratory_message_11>
+		<laboratory_message_12>反隐形雷达技术。使您能够侦测隐形轰炸机，该效果持续48小时。</laboratory_message_12>
+		<laboratory_message_13>能够扩展侦测区域，完整侦测敌方基地15次，不受您的指挥中心的等级限制。</laboratory_message_13>
+		<laboratory_message_14>获得护盾技术，使您的基地168小时免受入侵。</laboratory_message_14>
+		<laboratory_message_15>反隐形雷达技术。使您能够侦测隐形轰炸机，该效果持续72小时。</laboratory_message_15>
+		
+		<option_message_1>背景音乐</option_message_1>
+		<option_message_2>音效</option_message_2>
+		<option_message_3>画面质量</option_message_3>
+		<option_message_4>语言</option_message_4>
+		<option_message_5>如果您以来宾身份登录，建议您将游戏进度关联至您的社交平台账号以便保存完整信息。</option_message_5>
+		<option_message_6>登录账号</option_message_6>
+		<option_message_7>更换账号</option_message_7>
+		<option_message_8>切换</option_message_8>
+		<option_message_9>如果您想在另一台设备上进行游戏，您可以从服务器获得一组代码，在另一台设备中输入。</option_message_9>
+		<option_message_10>获取一组代码</option_message_10>
+		<option_message_11>输入一组代码</option_message_11>
+		<option_message_12>您可以在您可以在Facebook上获得有关Airforce Strike的最新信息。</option_message_12>
+		<option_message_13>在Twitter上关注Airforce Strike，获取游戏最新情报。</option_message_13>
+		<option_message_14>游戏提示</option_message_14>
+		<option_message_15>制作人员</option_message_15>
+		<option_message_16>游戏设置</option_message_16>
+		<option_message_17>账号设置</option_message_17>
+		<option_message_18>更多内容</option_message_18>
+		<option_message_19>游戏选项</option_message_19>
+		<option_message_20>弹出提示</option_message_20>
+		
+		<register_message_0>基地名称（2 - 20个字符）</register_message_0>
+		<register_message_1>注册</register_message_1>
+		
+		<laboratory_required>实验室&#10;等级需{0}级</laboratory_required>
+		<factory_required>轰炸机制造厂&#10;等级需{0}级</factory_required>
+		<armory_required>兵工厂&#10;等级需{0}级</armory_required>
+		<techcenter_required>科技中心&#10;等级需Lv.{0}级</techcenter_required>
+		<cc_required>指挥中心{0}级 </cc_required>
+		<cc_maxbuild>建筑数量已达上限</cc_maxbuild>
+		
+		<tip_title>游戏提示：</tip_title>
+		<tip_0>在战役模式中获得3星评价即可获得一个专家。</tip_0>
+		<tip_1>如果没有将游戏进度关联至社交平台账号，一旦遇到问题将很难恢复。</tip_1>
+		<tip_2>在PvP战斗中，对敌方基地摧毁比率越高，则获得的专家越多。</tip_2>
+		<tip_3>只有PvP战斗中的成就才能给予资源奖励。</tip_3>
+		<tip_4>如果您具备了反隐形雷达科技，则所有地面单位都将能够侦测隐形轰炸机。</tip_4>
+		<tip_5>如果您在战役的某关卡中获得了所有资源和3星评价，则关卡的所有战争迷雾都会消失。</tip_5>
+		<tip_6>如果您同时拥有“完整侦测技术”和“扩展侦测区域技术”，则游戏会优先使用后者。</tip_6>
+		<tip_7>战斗获胜后，对手将收到被您击败的消息。</tip_7>
+		<tip_8>被敌人摧毁的指挥中心在点击后将自动重建。</tip_8>
+		<tip_9>如需帮助，请随时与管理员取得联系。</tip_9>
+		<tip_10>要获取专家，您必须先建造学院。</tip_10>
+		<tip_11>如果您在一场战斗胜利时损失的轰炸机不超过2架，那么您便取得了绝对胜利。</tip_11>
+		<tip_12>按住您收到的消息便可以进行复制。</tip_12>
+	    <tip_13>您只能建造一座诱饵指挥中心。</tip_13>
+		
+		<notification_content_0> {2}（等级{1}）已建成。</notification_content_0>
+		<notification_content_1>所有轰炸机均已生产完毕。</notification_content_1>
+		<notification_content_2>专家已无额外工作空间。</notification_content_2>
+		<notification_content_3> {2}（等级{1}）已完成升级。</notification_content_3>
+		<notification_content_4>实验室所有科技均已研发完成。</notification_content_4>
+		<notification_content_5> {0}导弹已装填完毕。</notification_content_5>
+		<notification_content_6>护盾即将失效。</notification_content_6>
+		
+		<quit_message>是否要退出游戏？</quit_message>
+		
+		<being_attacked_message>您正遭到敌人袭击。&#10;请稍后重试。</being_attacked_message>
+	
+		<tutorial_content_0>指挥官，虽然您已凭借巨大的勇气完成了您的使命，但此刻战斗再次需要您。欢迎重返基地！</tutorial_content_0> 
+		<tutorial_content_1>基地建造已就绪，只待以您的指挥才能为其增添异彩。</tutorial_content_1>
+		<tutorial_content_2>打造一个强大的基地需要大量的资源，您首先需要建造一处生产设施。不过好在除了靠自己生产以外，我们可以通过进攻其它基地获取资源。</tutorial_content_2>    
+		<tutorial_content_4>就让我们从金矿和铁矿的建造开始吧！</tutorial_content_4>
+		<tutorial_content_5>生产轰炸机和建造防御设施需要消耗黄金。</tutorial_content_5> 
+		<tutorial_content_6>现在就建造一处金矿吧。</tutorial_content_6>
+		<tutorial_content_7>金矿正在建造中，您可以使用勋章来加速建筑的建造和升级过程。</tutorial_content_7>     
+		<tutorial_content_8>金矿已成功建成。</tutorial_content_8> 
+		<tutorial_content_9>让我们再来建造一处铁矿吧，建造各种设施需要消耗铁。</tutorial_content_9>     
+		<tutorial_content_10>现在就建造一处铁矿吧。</tutorial_content_10>
+		<tutorial_content_11>铁矿正在建造中，您可以使用勋章来加速建筑的建造和升级过程。</tutorial_content_11>       
+		<tutorial_content_12>铁矿已成功建成。</tutorial_content_12> 
+		<tutorial_content_13>进攻对手的基地需要用到轰炸机，要生产轰炸机，您首先要建造机库。每种轰炸机的体积不同，随着机库的升级，机库可以容纳更多的轰炸机。</tutorial_content_13>      
+		<tutorial_content_14>现在就建造一处机库吧。</tutorial_content_14>
+		<tutorial_content_15>机库正在建造中，使用勋章来加速建筑过程。</tutorial_content_15>       
+		<tutorial_content_16>机库已成功建成。我们来生产一架轰炸机。您可以在轰炸机制造厂生产轰炸机。</tutorial_content_16>     
+		<tutorial_content_17>现在就建造一处轰炸机制造厂吧。</tutorial_content_17>
+		<tutorial_content_18>轰炸机制造厂正在建造中，您可以使用勋章来加速建筑的建造和升级过程。</tutorial_content_18>       
+		<tutorial_content_19>轰炸机制造厂已建成，让我们先来查看一下这座建筑。</tutorial_content_19>      
+		<tutorial_content_20>您现在只能制造“探路者”，随着建筑等级的提高，您可以制造更多型号的机型。但您同时只能制造4种不同的战斗机。现在就制造一架探路者吧。</tutorial_content_20>      
+		<tutorial_content_22>我们需要争分夺秒，使用勋章加速制造吧。</tutorial_content_22>      
+		<tutorial_content_23>轰炸机已就绪，是时候进攻对手的基地了。请点击“关闭”按钮。</tutorial_content_23>     
+		<tutorial_content_24>请点击界面左下角的“进攻”选单。</tutorial_content_24>      
+		<tutorial_content_25>进攻行动分为PvP和单人模式两种。您可以在单人模式中通过练习各种战术以提高作战技巧，也可以在PvP模式中点击“寻找对手“按钮进行对战。</tutorial_content_25>
+		<tutorial_content_26>您已对一个对手的基地做了一定的侦查，战斗的胜负取决于对手的指挥中心是否被摧毁。</tutorial_content_26>      
+		<tutorial_content_27>请选择一架可用的轰炸机。</tutorial_content_27>       
+		<tutorial_content_28>您可以确认轰炸机在实战中的飞行轨迹。当您划定一条作战参考路线后，轰炸机便将遵循该路线进行飞行。</tutorial_content_28>     
+		<tutorial_content_31>对手指挥中心的位置已暴露，现在，点击“轰炸”按钮，投下一颗炸弹！</tutorial_content_31>       
+		<tutorial_content_32>干得漂亮！对手的指挥中心已被摧毁。</tutorial_content_32>      
+		<tutorial_content_39>祝贺您，指挥官。您已经成功完成了您的第一次作战。</tutorial_content_39>     
+		<tutorial_content_40>受损的轰炸机可以在机库中进行维修，以便再次参与作战。现在就前往机库对轰炸机进行维修吧。</tutorial_content_40>      
+		<tutorial_content_41>点击“维修”按钮，轰炸机的维修便会开始。您需要注意的是，正在维修的轰炸机无法参与作战。</tutorial_content_41>     
+		<tutorial_content_42>请点击“关闭”按钮返回基地界面。</tutorial_content_42>       
+		<tutorial_content_43>您可以在作战记录菜单中查看进攻和防守记录。请点击“作战记录”菜单。</tutorial_content_43>     
+		<tutorial_content_44>请点击防守记录。</tutorial_content_44>      
+		<tutorial_content_45>时常查看防守记录，随时给入侵者一点颜色看看。</tutorial_content_45>     
+		<tutorial_content_46>请点击“关闭”按钮。</tutorial_content_46>      
+		<tutorial_content_47>祝贺您，您已经了解了游戏的基本操作。希望您能够不断提高排名，打造最强的基地。</tutorial_content_47>
+	</subview_6>
+</languages>

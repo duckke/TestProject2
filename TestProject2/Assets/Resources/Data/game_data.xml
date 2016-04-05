@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	<monster_0>
+		<speed>2</speed>
+		<skill>0</skill>
+	</monster_0>
+	<monster_1>
+		<speed>2.5</speed>
+		<skill>0</skill>
+	</monster_1>
+	<monster_2>
+		<speed>3.0</speed>
+		<skill>0</skill>
+	</monster_2>
+	<monster_3>
+		<speed>3.5</speed>
+		<skill>0</skill>
+	</monster_3>
+	<monster_4>
+		<speed>4.0</speed>
+		<skill>0</skill>
+	</monster_4>
+	<monster_5>
+		<speed>4.5</speed>
+		<skill>0</skill>
+	</monster_5>
+	<monster_6>
+		<speed>5.0</speed>
+		<skill>0</skill>
+	</monster_6>
+	<monster_7>
+		<speed>5.5</speed>
+		<skill>0</skill>
+	</monster_7>	
+	<monster_8>
+		<speed>6.0</speed>
+		<skill>0</skill>
+	</monster_8>
+	
+</languages>

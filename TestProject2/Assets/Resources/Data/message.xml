@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	<message_0>
+		<msg_0>Test</msg_0>
+		<msg_8>Cannot connect to the network.&#10; Please check your internet connection.</msg_8>
+		<msg_9>Your connection to the server is poor.&#10; Please try again later.</msg_9>
+		<msg_10> Sorry, the base name you entered is already being used. Please type another base name. </msg_10>
+		<msg_12>You failed to log in to the game. Please try again after checking your ID and password.</msg_12>
+		<msg_13>You have been appointed as the commander of a base.</msg_13>
+		<msg_14>A new version{0} is available now. Please update the game to play more smoothly. &#10; Will you update the game?</msg_14>
+		<msg_15>Network Error!</msg_15>
+		<msg_17>Will you use this as your base name?</msg_17>
+		<msg_18>Are you sure you want to change the name of your base by using medals?</msg_18>
+		<msg_19>The name of your base has been changed successfully.</msg_19>
+		<msg_20>The account has been connected successfully.</msg_20>
+		<msg_21>The account you entered is currently connected to your previous game. Are you sure you want to play your previous game? Your current game data will be deleted. </msg_21>
+		<msg_22>This account has already been connected to the social account you logged in just now.</msg_22>
+		<msg_23>This account has already been connected to another social account.</msg_23>
+		<msg_24>A guest player cannot copy his or her account. Please try again after connecting your account to Game Center or Google Play.</msg_24>
+		<msg_25>Please enter this code to another device to sync. </msg_25>
+		<msg_26>Are you sure you want to replace your current game data with the copied account's data? Your current game data will be lost.</msg_26>
+		<msg_27>This code is invalid. Please check the code from your original device.</msg_27>
+		<msg_28>Your account is already connected to {0}. Please play the game after connecting the account.</msg_28>
+		<msg_38>Competitor is online.</msg_38>
+		<msg_39>Competitor is protected by shield.</msg_39>
+		<msg_40>You cannot search for a competitor due to a lack of gold.</msg_40>
+		<msg_41>If you attack a competitor, the shield you are using will disappear. Will you attack the competitor?</msg_41>
+		<msg_42>Will you repair all of your bombers?</msg_42>
+		<msg_43> Are you sure you want to change insufficient resources into medals?</msg_43>
+		<msg_44>There are not enough doctors.</msg_44>
+		<msg_45>You cannot produce more than the maximum number of storage space.</msg_45>
+		<msg_46>Are you sure you want to remove this bomber? If a tech is in it, will be removed also.</msg_46>
+		<msg_47>A bomber being repaired, can't be removed.</msg_47>
+		<msg_48>Congratulations! Received 150 medals from the supply dump.</msg_48>
+		<msg_49> Are you sure you want to skip the tutorial?</msg_49>
+		<msg_50> Do you want to send this message?</msg_50>
+		<msg_51>Are you sure you want to delete this message?</msg_51>
+		<msg_52>Are you sure you want to delete all messages?</msg_52>
+		<msg_53>Do you want to report this message to the administrator?</msg_53>
+		<msg_54>The message has been reported to the administrator.</msg_54>
+		<msg_55> Do you want to send this message to the administrator?</msg_55>
+		<msg_56>The message has been sent successfully.</msg_56>
+		<msg_57>Do you want to complete the work immediately by using some medals?</msg_57>
+		<msg_58>You do not have enough medals.&#10; Do you want to purchase medals from the supply dump?</msg_58>
+		<msg_59>Do you want to purchase medals?</msg_59>
+		<msg_60>Do you want to fill the resources?</msg_60>
+		<msg_61>Do you want to add one engineer?</msg_61>
+		<msg_62>There are no engineers available.</msg_62>
+		<msg_63>There are no engineers available. &#10; Will you add more engineers from the supply dump?</msg_63>
+		<msg_64>Do you want to add one more laboratory slot?</msg_64>
+		<msg_65>There are no slots available for an experiment. &#10; Try to add one more laboratory slot first.</msg_65>
+		<msg_66>You cannot ask engineers anymore.</msg_66>
+		<msg_67>Please try again after the ongoing work has been completed.</msg_67>
+		<msg_75>The server is currently down and under maintenance. Please wait a moment. &#10; we apologize for the inconvenience. </msg_75>
+		<msg_82>Thank you for your purchase.</msg_82>
+		<msg_84>Your purchase has been cancelled.</msg_84>
+		<msg_85> Sorry. This receipt is invalid. &#10; However, the transaction may have been completed.&#10; We recommend that you do not try to purchase again and check your purchase history instead. If you have any problems, please contact the administrator.</msg_85>
+		<msg_90>Are you going to fall and take defeat? Let the attacker have a taste of your vengeance! </msg_90>
+		<msg_91>Do you want to ask your alliance commander to take revenge on the player? </msg_91>
+		<msg_92>There are no bombers available for an attack!</msg_92>
+		<msg_93>Are you sure you want to step back? </msg_93>
+		<msg_94>Fire an ICBM missile to this location.</msg_94>
+		<msg_95>Your ICBM missile has been brought down by competitor's THAAD! Check whether or not there is a THAAD at the competitor's base before you fire ICBM missiles!</msg_95>
+		<msg_96>Are you sure you want to join this alliance? &#10;[{0}]</msg_96>
+		<msg_97>You do not meet the wing requirements that the commander has requested.</msg_97>
+		<msg_98>Please type at least 2 characters.</msg_98>
+		<msg_99>It is impossible to use &apos; ` &apos;. </msg_99>
+		<msg_100>Only a user having 1 or more gold wing can create an alliance.</msg_100>
+		<msg_101>A bomber is currently being produced. Will you cancel the production?</msg_101>
+		<msg_102>Sorry. The alliance has been disbanded.</msg_102>
+		<msg_103>Will you create an alliance?</msg_103>
+		<msg_104>Congratulations! You have joined an alliance.</msg_104>
+		<msg_105>Sorry. There are no available positions in this alliance.</msg_105>
+		<msg_106>Will you send a doctor to this user?</msg_106>
+		<msg_107>The user already has enough doctors.</msg_107>
+		<msg_108>The doctor has been sent successfully. </msg_108>
+		<msg_109>You failed to be connected to this chat server. Try again later. </msg_109>
+		<msg_115>You have already built a Fake Center in your base.</msg_115>
+		<msg_116>A shield is currently in place.&#10; Will you initiate another shield?</msg_116>
+		<msg_117>쉴드 메달주고 만들거임?</msg_117>
+		<msg_126>Congratulations! A new alliance has been created successfully.</msg_126>
+		<msg_129>Are you sure you want to close the alliance?</msg_129>
+		<msg_130>Are you sure you want to withdraw from this alliance?</msg_130>
+		<msg_135>The alliance has been disbanded successfully.</msg_135>
+		<msg_136>You have been withdrawn from the alliance successfully.</msg_136>
+		<msg_140>5 minutes later, our game server will be under maintenance. It will takes about 20 minutes. Thank you.</msg_140>
+		<msg_152>It is impossible to use &apos; 1 &apos;.</msg_152>
+		<msg_166>Will you kick this user out of the alliance?&#10;[{0}]</msg_166>
+		<msg_167>The user has been kicked out of the alliance.</msg_167>
+		<msg_168>Unfortunately, you have been withdrawn from the alliance.</msg_168>
+		<msg_173>Sorry. The name of the alliance you entered is being used. Please type another name.</msg_173>
+		<msg_180>Will you move to the title?</msg_180>
+		<msg_181>Your account has been accessed from another device, so the game will be closed on this device. </msg_181>
+		<msg_182>For base security, has been moved to the title screen automatically.</msg_182>
+	</message_0>
+	
+	<message_1>
+		<msg_0>테스트</msg_0>
+		<msg_8>현재 서버에 접속할 수 없습니다.&#10;기기의 인터넷 연결 상태를 확인해주세요.</msg_8>
+		<msg_9>서버와의 연결상태가 좋지 않습니다.&#10; 잠시 후에 다시 시도해 주세요.</msg_9>
+		<msg_10>죄송합니다. 입력하신 기지 이름이 이미 사용 중입니다. 다른 기지 이름을 입력해 주세요.</msg_10>
+		<msg_12>로그인에 실패하였습니다. 아이디 혹은 비밀번호를 확인한 후 다시 시도해주세요.</msg_12>
+		<msg_13>새로운 기지의 사령관으로 임명 되었습니다.</msg_13>
+		<msg_14>새 버전 V{0} 이 확인되었습니다. 원활한 플레이를 위해 업데이트가 필요합니다.&#10;게임을 업데이트 하시겠습니까?</msg_14>
+		<msg_15>네트워크 오류!</msg_15>
+		<msg_17>이 기지 이름으로 사용하시겠습니까?</msg_17>
+		<msg_18>메달을 사용하여 기지 이름을 변경하시겠습니까?</msg_18>
+		<msg_19>기지 이름이 성공적으로 변경되었습니다.</msg_19>
+		<msg_20>계정이 성공적으로 연동 되었습니다.</msg_20>
+		<msg_21>입력하신 계정은 이미 플레이 하셨던 이전 게임과 연동되어 있는 상태입니다. 이전 게임으로 플레이 하시겠습니까? 현재의 게임 데이터는 자동 소멸됨을 알려드립니다.</msg_21>
+		<msg_22>이 계정은 현재 로그인 하신 소셜 계정과 이미 연동 되어있는 상태입니다.</msg_22>
+		<msg_23>이 계정은 이미 다른 소셜 계정과 연동 되어있는 상태입니다.</msg_23>
+		<msg_24>Guest 플레이어는 계정 복사가 불가능합니다. Game Center 나 Google Play 에 계정을 연동한 후 다시 시도해주세요.</msg_24>
+		<msg_25>발급된 코드를 플레이 하실 다른 기기에 정확히 입력해주세요.</msg_25>
+		<msg_26>현재의 게임 데이터를 지우고 복사한 계정의 데이터로 대체 하시겠습니까?</msg_26>
+		<msg_27>코드가 유효하지 않습니다. 다시 한번 확인해주세요.</msg_27>
+		<msg_28>이전에 계정을 {0} 연동하셨던 기록이 있습니다. 계정 복사 대신 계정을 연동하여 플레이 해주세요.</msg_28>
+		<msg_38>상대방은 온라인 상태입니다.</msg_38>
+		<msg_39>상대방은 보호상태입니다.</msg_39>
+		<msg_40>골드가 부족하여 상대를 탐색할 수 없습니다.</msg_40>
+		<msg_41>상대를 공격하면 가동 중인 쉴드가 사라집니다. 공격 하시겠습니까?</msg_41>
+		<msg_42>모든 폭격기를 수리하시겠습니까?</msg_42>
+		<msg_43>부족한 자원을 메달로 바꾸시겠습니까?</msg_43>
+		<msg_44>필요한 박사 수가 부족합니다.</msg_44>
+		<msg_45>최대 보유 가능 수 이상 생산할 수 없습니다.</msg_45>
+		<msg_46>이 폭격기를 제거하시겠습니까? 기술 적용이 된 폭격기일경우 해당 기술까지 모두 사라집니다.</msg_46>
+		<msg_47>수리중인 폭격기는 제거할 수 없습니다.</msg_47>
+		<msg_48>축하합니다. 군수 기지로부터 메달 150개를 지원 받았습니다.</msg_48>
+		<msg_49>튜토리얼을 생략 하시겠습니까?</msg_49>
+		<msg_50>메시지를 보내시겠습니까?</msg_50>
+		<msg_51>메시지를 삭제하시겠습니까?</msg_51>
+		<msg_52>모든 메시지를 삭제하시겠습니까?</msg_52>
+		<msg_53>이 메시지를 운영자에게 신고하시겠습니까?</msg_53>
+		<msg_54>운영자에게 메세지가 신고 되었습니다.</msg_54>
+		<msg_55>운영자에게 메시지를 보내시겠습니까?</msg_55>
+		<msg_56>메시지가 전송되었습니다.</msg_56>
+		<msg_57>메달을 사용하여 작업을 즉시 완료하시겠습니까?</msg_57>
+		<msg_58>메달이 부족합니다.&#10;군수 기지에서 메달을 구매하시겠습니까?</msg_58>
+		<msg_59>메달을 구매하시겠습니까?</msg_59>
+		<msg_60>자원을 채우시겠습니까?</msg_60>
+		<msg_61>공병대를 추가 요청하시겠습니까?</msg_61>
+		<msg_62>사용할수 있는 공병대가 없습니다.</msg_62>
+		<msg_63>여유 공병대가 없습니다.&#10;군수 기지에서 공병대를 추가 요청하시겠습니까?</msg_63>
+		<msg_64>연구소 슬롯을 확장하시겠습니까?</msg_64>
+		<msg_65>연구할 수 있는 슬롯이 없습니다.&#10;연구소 슬롯을 확장해주세요.</msg_65>
+		<msg_66>공병대를 더 이상 요청할 수 없습니다.</msg_66>
+		<msg_67>진행중인 작업이 완료된 후 다시 시도하세요.</msg_67>
+		<msg_75>현재 서버 점검 작업을 진행중입니다. 잠시만 기다려주시기 바랍니다.&#10;불편을 드려 죄송합니다.</msg_75>
+		<msg_82>구매해주셔서 감사합니다.</msg_82>
+		<msg_84>구매가 취소되었습니다.</msg_84>
+		<msg_85>죄송합니다. 유효하지 않은 영수증입니다.&#10;그러나 결제 처리가 되었을 가능성이 있습니다.&#10;구매를 다시 시도하지 마시고 구매 내역을 확인해 보시기 바라며 문제 발생 시 운영자에게 연락을 주시기 바랍니다.</msg_85>
+		<msg_90>이대로 당하고만 있을겁니까? 복수의 쓴맛을 보여주시죠!</msg_90>
+		<msg_91>연합사령관에게 복수 요청을 하시겠습니까?</msg_91>
+		<msg_92>출격 가능한 폭격기가 없습니다!</msg_92>
+		<msg_93>정말 이대로 물러나시겠습니까?</msg_93>
+		<msg_94>이 위치에 ICBM 미사일을 투하합니다.</msg_94>
+		<msg_95>ICBM 미사일이 상대 기지의 THAAD 에 의해 격추되었습니다! 투하 전 THAAD 유무를 꼭 확인하세요!</msg_95>
+		<msg_96>이 연합군에 가입하시겠습니까?&#10;[{0}]</msg_96>
+		<msg_97>연합사령관이 정한 최소 가입 윙 수가 부족합니다.</msg_97>
+		<msg_98>최소 2자 이상 입력해주세요.</msg_98>
+		<msg_99>&apos; ` &apos;은 사용이 불가능합니다.</msg_99>
+		<msg_100>골드윙 1개 이상을 보유한 유저만 창설 가능합니다.</msg_100>
+		<msg_101>현재 생산중인 폭격기 입니다. 생산을 취소 하시겠습니까?</msg_101>
+		<msg_102>죄송합니다. 이미 해체된 연합군 입니다.</msg_102>
+		<msg_103>연합군을 창설하시겠습니까?</msg_103>
+		<msg_104>축하합니다. 연합군에 가입되셨습니다.</msg_104>
+		<msg_105>죄송합니다. 해당 연합군의 인원이 모두 찼습니다.</msg_105>
+		<msg_106>해당 유저에게 박사를 지원 보내시겠습니까?</msg_106>
+		<msg_107>해당 유저는 이미 박사를 충분히 보유하고 있습니다.</msg_107>
+		<msg_108>박사를 성공적으로 지원 보냈습니다.</msg_108>
+		<msg_109>채팅 서버와의 연결에 실패했습니다. 나중에 다시 시도해주세요.</msg_109>
+		<msg_115>이미 페이크 커맨드 센터가 건설되어 있습니다.</msg_115>
+		<msg_116>현재 쉴드가 가동되고 있습니다.&#10;쉴드를 다시 가동 하시겠습니까?</msg_116>		
+		<msg_117>쉴드 메달주고 만들거임?</msg_117>
+		<msg_126>축하합니다. 새로운 연합군이 성공적으로 창설되었습니다.</msg_126>
+		<msg_129>연합군을 해체하시겠습니까?</msg_129>
+		<msg_130>연합군으로부터 탈퇴하시겠습니까?</msg_130>
+		<msg_135>연합군이 정상적으로 해체되었습니다.</msg_135>
+		<msg_136>해당 연합군으로부터 정상적으로 탈퇴 되었습니다.</msg_136>
+		<msg_140>알려드립니다. 잠시 뒤 5분 후에 서버 점검이 시작되어 자동으로 로그아웃 됩니다. 점검 시간은 약 20분 내외가 소요될 예정입니다. 서버 점검 중에는 로그인 하실 수 없습니다. 감사합니다.</msg_140>
+		<msg_152>&apos; 1 &apos;은 사용이 불가능합니다</msg_152>
+		<msg_166>해당 유저를 연합군으로부터 탈퇴 시키겠습니까?&#10;[{0}]</msg_166>
+		<msg_167>해당 유저를 연합군으로부터 탈퇴 시켰습니다.</msg_167>
+		<msg_168>유감스럽지만 연합군으로부터 강퇴 처리 되었습니다.</msg_168>
+		<msg_173>죄송합니다. 입력하신 연합군 이름이 이미 사용 중입니다. 다른 연합군 이름을 입력해주세요.</msg_173>
+		<msg_180>타이틀 화면으로 이동하시겠습니까?</msg_180>
+		<msg_181>다른 기기에서 동일 계정으로 접속하여 이 기기에서의 접속을 중단합니다.</msg_181>
+		<msg_182>기지 보안을 위해 타이틀 화면으로 자동 이동 되었습니다.</msg_182>
+	</message_1>
+	
+	<message_4>
+		<msg_0>測試</msg_0>
+		<msg_8>無法連接網絡&#10;請檢查您的網絡連接</msg_8>
+		<msg_9>您與服務器的網絡連接不穩定&#10;請稍後再試</msg_9>
+		<msg_10>抱歉，您輸入的基地名稱已被使用，請重新輸入。</msg_10>
+		<msg_12>登錄失敗，請檢查用戶名和密碼後重試。</msg_12>
+		<msg_13>您已被任命為基地指揮官。</msg_13>
+		<msg_14>新版本（{0}）已上線，請進行更新以確保正常遊戲。&#10;是否要進行更新？</msg_14>
+		<msg_15>網絡錯誤！</msg_15>
+		<msg_17>請確認基地名稱</msg_17>
+		<msg_18>是否要花費勳章來修改基地名稱？</msg_18>
+		<msg_19>基地名稱修改完成。</msg_19>
+		<msg_20>賬號登錄成功。</msg_20>
+		<msg_21>你的账号已准备好加载此前的游戏进度，是否要继续此前的游戏进度？这将导致您当前游戏进度的丢失。</msg_21>
+		<msg_22>該賬號已關聯至您剛剛登錄的社交平台賬號。</msg_22>
+		<msg_23>該賬號已關聯至另一個社交平台賬號。</msg_23>
+		<msg_24>來賓玩家無法複製賬號，請將您的賬號關聯至遊戲中心或谷歌播放。</msg_24>
+		<msg_25>在另一台設備上輸入該代碼進行數據同步。</msg_25>
+		<msg_26>確定要使用所複製賬號的數據覆蓋您當前遊戲的進度？</msg_26>
+		<msg_27>代碼錯誤，請核對原設備上顯示的代碼。</msg_27>
+		<msg_28>您的賬號已與{0}關聯，請登錄該賬號後再進行遊戲。</msg_28>
+		<msg_38>敵人在線。</msg_38>
+		<msg_39>敵人的基地已激活護盾。</msg_39>
+		<msg_40>黃金儲量不足，無法尋找對手。</msg_40>
+		<msg_41>向敵人發起進攻將導致當前護盾消失，是否要發起進攻？</msg_41>
+		<msg_42>是否要對所有轟炸機進行維修？</msg_42>
+		<msg_43>確定要用勳章補充存量不足的資源？</msg_43>
+		<msg_44>專家人數不足。</msg_44>
+		<msg_45>生產數量不能超過存儲能力。</msg_45>
+		<msg_46>確定要移除該轟炸機？所攜帶科技也將被移除。</msg_46>
+		<msg_47>轟炸機正處於維修中，無法移除。</msg_47>
+		<msg_48>祝賀您！您已從補給站中獲取150枚勳章。</msg_48>
+		<msg_49>確定要跳過教程？</msg_49>
+		<msg_50>是否要發送該消息？</msg_50>
+		<msg_51>確定要刪除該消息？</msg_51>
+		<msg_52>確定要刪除所有消息？</msg_52>
+		<msg_53>是否要舉報該消息？</msg_53>
+		<msg_54>消息舉報成功</msg_54>
+		<msg_55>是否要將該消息發送至管理員？</msg_55>
+		<msg_56>消息發送成功</msg_56>
+		<msg_57>是否要花費勳章立刻完成該項工作？</msg_57>
+		<msg_58>勳章不足。&#10;是否要在補給站購買勳章？</msg_58>
+		<msg_59>是否要購買勳章？</msg_59>
+		<msg_60>是否要補充資源？</msg_60>
+		<msg_61>是否要添加一名工兵？</msg_61>
+		<msg_62>沒有可用的工兵。</msg_62>
+		<msg_63>沒有可用的工兵。&#10;是否要從補給站獲得更多的工兵？</msg_63>
+		<msg_64>是否要增加一個實驗室項目欄位？</msg_64>
+		<msg_65>沒有可用的試驗欄位。&#10;請先增加一個欄位。</msg_65>
+		<msg_66>工兵人數已達上限。</msg_66>
+		<msg_67>請等待當前的建造與升級任務完成後重試。</msg_67>
+		<msg_75>服務器正在維護，請等待。&#10;我們為此給您帶來的不便表示歉意。</msg_75>
+		<msg_82>感謝購買。</msg_82>
+		<msg_84>您的已取消購買。</msg_84>
+		<msg_85>抱歉，該憑據已失效。&#10;但您的交易或許已完成。&#10;我们建议您不要重复进行购买，并查看您的购买记录。如有任何问题，请与管理员联系。</msg_85>
+		<msg_90>您要接受敗局嗎？讓入侵者感受您復仇的怒火吧！</msg_90>
+		<msg_91>是否要請求您的聯盟指揮官為您向該玩家發起復仇襲擊？</msg_91>
+		<msg_92>沒有可以投入作戰的轟炸機！</msg_92>
+		<msg_93>確定要返回？</msg_93>
+		<msg_94>向該位置發射洲際彈道導彈的導彈。</msg_94>
+		<msg_95>您的洲際導彈導彈已被對方的THAAD攔截！發射洲際彈道導彈的導彈前請調查對方基地是否建有THAAD！</msg_95>
+		<msg_96>確定要加入該聯盟？&#10;[{0}] </msg_96>
+		<msg_97>您沒有達到聯盟指揮官設定的機翼徽章要求。</msg_97>
+		<msg_98>請至少輸入兩個字符。</msg_98>
+		<msg_99>不能使用者&apos; `&apos;者字符</msg_99>
+		<msg_100>只有拥有1个或更多黄金机翼徽章的玩家才能够创建一个联盟。</msg_100>
+		<msg_101>正在生產一架轟炸機，是否要取消生產？</msg_101>
+		<msg_102>抱歉，聯盟已解散。</msg_102>
+		<msg_103>是否要創建一個聯盟？</msg_103>
+		<msg_104>祝賀您！您已加入一個聯盟。</msg_104>
+		<msg_105>抱歉，聯盟名額已滿。</msg_105>
+		<msg_106>是否向該玩家派遣一名專家？</msg_106>
+		<msg_107>該玩家已擁有足夠數量的專家。</msg_107>
+		<msg_108>專家已成功派遣。</msg_108>
+		<msg_109>聊天服務器連接失敗，請稍後重試。</msg_109>
+		<msg_115>您的基地已經建造了一座誘餌指揮中心。</msg_115>
+		<msg_116>護盾已激活。&#10;是否要再次激活一個護盾？</msg_116>
+		<msg_126>祝賀您！聯盟已新建成功。</msg_126>
+		<msg_129>確定要解散聯盟？</msg_129>
+		<msg_130>確定要退出該聯盟？</msg_130>
+		<msg_135>聯盟解散成功。</msg_135>
+		<msg_136>您已成功退出聯盟。</msg_136>
+		<msg_152>不能使用者&apos; 1'&apos;。字符</msg_152>
+		<msg_166>是否要將該玩家從聯盟中除名？&#10;[{0}] </msg_166>
+		<msg_167>玩家已經從聯盟中除名。</msg_167>
+		<msg_168>抱歉，您已被聯盟除名。</msg_168>
+		<msg_173>抱歉，該聯盟名稱已被使用，請重新輸入。</msg_173>
+        <msg_180>是否要返回標題畫面？</msg_180>
+	   	<msg_182>由於長時間無操作，遊戲已被自動轉至標題畫面。</msg_182>
+	</message_4>
+	
+	<message_5>
+		<msg_0>テスト</msg_0>
+		<msg_8>現在サーバーに接続できません。&#10;機器のネットワーク状態を確認して下さい。</msg_8>
+		<msg_9>サーバとの接続状態が悪いです。&#10;少し後にやり直して下さい。</msg_9>
+		<msg_10>申し訳ありません。入力した基地名は既に使用中です。他の基地名を入力してください。</msg_10>
+		<msg_12>ログインに失敗しました。IDまたはパスワードを確認後再度ログインしてください。</msg_12>
+		<msg_13>新しい基地の司令官で任命されました。</msg_13>
+		<msg_14>最新バージョンV{0} が確認されました。円滑なプレイのためアップデートが必要です。&#10;ゲームを最新バージョンにアップデートしますか?</msg_14>
+		<msg_15>ネットワークエラー</msg_15>
+		<msg_17>この基地名でしますか?</msg_17>
+		<msg_18>メダルを消費して基地名を変更しますか?</msg_18>
+		<msg_19>基地名が正常に 変更されました。</msg_19>
+		<msg_20>アカウントが正常に連動されました。</msg_20>
+		<msg_21>入力したアカウントは既にプレイしてた以前ゲームと連動されている状態です。以前ゲームでプレイしますか?現在のゲームデータは自動消滅されることをお知らせ致します。</msg_21>
+		<msg_22>このアカウントは現在ログインしているソーシャルアカウントと既に連動されている状態です。</msg_22>
+		<msg_23>この赤運路は既に他のソーシャルアカウントと連動されている状態です。</msg_23>
+		<msg_24>Guestプレーヤーはアカウントコピーが不可能です。Game Center や Google Play にアカウントを連動した後再度試してください。 </msg_24>
+		<msg_25>発給されたコードをプレイする他のディバイスに正確に入力してください。</msg_25>
+		<msg_26>現在のゲームデータを消してコピーしたアカウントのデーターで振り替えしますか?</msg_26>
+		<msg_27>無効なコードです。再度確認してください。</msg_27>
+		<msg_28>以前にアカウントを {0} 連動してた記録があります。アカウントを連動してプレイしてください。</msg_28>
+	    <msg_38>競争相手がオンラインになっている。</msg_38>
+	    <msg_39>競技者がシールドで保護されています。</msg_39>
+		<msg_40>ゴールド不足で相手を探索できません。</msg_40>
+		<msg_41>相手を攻撃すると稼働中のシールドが無効になります。攻撃しますか?</msg_41>
+		<msg_42>全ての爆撃機を修理しますか?</msg_42>
+		<msg_43>不足な資源をメダルで変えますか?</msg_43>
+		<msg_44>必要な博士の数が不足です。</msg_44>
+	    <msg_45>最大保有可能数以上に生産できません。</msg_45>
+	    <msg_46>必ず、爆撃機を削除したいですか？技術はまた運ぶために削除されます。</msg_46>
+	    <msg_47>爆撃機がサービス中で、あなたはそれを削除することはできません。</msg_47>
+		<msg_48>おめでとうございます。軍需基地からメダル150個を支援受けました。 </msg_48>
+	    <msg_49>チュートリアルをスキップしますか?</msg_49>
+	    <msg_50>メッセージを送りしますか?</msg_50>
+		<msg_51>メッセージを消しますか?</msg_51>
+		<msg_52>てのメッセージを消しますか?</msg_52>
+		<msg_53>このメッセージを運営者に申告しますか?</msg_53>
+		<msg_54>運営者に申告メッセージを送りしました。</msg_54>
+		<msg_55>運営者にメッセージを送りしますか?</msg_55>
+		<msg_56>メッセージが送信されました。</msg_56>
+		<msg_57>メダルを消費して作業を直ぐ完了しますか?</msg_57>
+		<msg_58>メダルが不足です。&#10;軍需基地からメダルを購入しますか?</msg_58>
+		<msg_59>メダルを購入しますか?</msg_59>
+		<msg_60>資源を詰めますか?</msg_60>
+		<msg_61>工兵隊を追加要請しますか?</msg_61>
+		<msg_62>使用できる工兵隊がありません。</msg_62>
+		<msg_63>余裕工兵隊がありません。&#10;軍需基地から工兵隊を追加要請しますか?</msg_63>
+		<msg_64>研究所スロットを拡張しますか?</msg_64>
+		<msg_65>研究できるスロットがありません。&#10;研究所スロットを増やしてください。</msg_65>
+		<msg_66>工兵隊をこれ以上要請できません。</msg_66>
+		<msg_67>作業が完了された後再度試してください。</msg_67>
+		<msg_75>現在サーバーメンテナンス作業を行っております。しばらくお待ちしてください。&#10;ご迷惑をお掛けして申し訳ございません。</msg_75>
+		<msg_82>購入頂きありがとうございます。</msg_82>
+		<msg_84>購入がキャンセルされました。</msg_84>
+		<msg_85>申し訳ありません。無効な領収書です。&#10;しかし決済が完了された可能性があります。&#10;まず購入履歴を確認して問題発生の際に運営者に連絡してください。</msg_85>
+		<msg_90>このままやられてばかりいるのでしょうか？復讐して痛い目に遭わせてあげましょう!/我々の手の内を、見せて見ましょう!</msg_90>
+		<msg_91>連合司令官に復讐を要請しますか?</msg_91>
+		<msg_92>出撃可能な爆撃機がありません!</msg_92>
+		<msg_93>本当にこのまま後退しますか?</msg_93>
+		<msg_94>この位置にICBMミサイルを投下します。</msg_94>
+		<msg_95>ICBMミサイルが相手の基地のTHAADによって撃墜されました!投下の前にTHAAD有/無を確認してください!</msg_95>
+		<msg_96>この連合軍に加入しますか?&#10;[{0}]</msg_96>
+		<msg_97>連合司令官が決めた最少加入ウィングの数が足りないです。</msg_97>
+		<msg_98>最少2文字以上入力してください。</msg_98>
+		<msg_99>&apos; ` &apos;は使用不可能です。</msg_99>
+		<msg_100>ゴールドウィング1個以上保有したユーザーだけ創設できます。</msg_100>
+		<msg_101>現在生産中の爆撃機です。生産をキャンセルしますか?</msg_101>
+		<msg_102>申し訳ありません。既に解体された連合軍です。</msg_102>
+		<msg_103>連合軍を創設しますか?</msg_103>
+		<msg_104>おめでとうございます。連合軍に加入されました。</msg_104>
+		<msg_105>申し訳ありません。該当連合軍は人数が全部揃いました。</msg_105>
+		<msg_106>該当ユーザーに博士を支援しますか?</msg_106>
+		<msg_107>該当ユーザーは既に博士を十分に保有しています。</msg_107>
+		<msg_108>博士を正常に支援しました。</msg_108>
+		<msg_109>チャットサーバーとの接続に失敗しました。しばらくした後サイド試してください。</msg_109>
+		<msg_115>既にフェイクコマンドセンターが建設されています。</msg_115>
+		<msg_116>現在シールドが稼動中です。&#10;シールドを稼動しますか?</msg_116>
+		<msg_126>おめでとうございます。新しい連語郡が正常に創設されました。</msg_126>
+		<msg_129>連合軍を解体しますか?</msg_129>
+		<msg_130>連合軍から脱会しますか?</msg_130>
+		<msg_135>連合軍が正常に解体されました。</msg_135>
+		<msg_136>該当連合軍から正常に脱会されました。</msg_136>
+		<msg_152>&apos; 1 &apos;は使用不可能です。</msg_152>
+		<msg_166>該当ユーザーを連合軍から脱会させますか?&#10;[{0}]</msg_166>
+		<msg_167>該当ユーザーを連合軍から脱会させました。</msg_167>
+		<msg_168>申し訳ありません。連合軍から強制脱会されました。</msg_168>
+		<msg_173>申し訳ありません。入力した連合軍名は既に使用中です。他の連合軍名を入力してください。</msg_173>
+        <msg_180>タイトル画面に移動しますか?</msg_180>
+        <msg_182>基地保安のため自動的にタイトル画面に移動されました。</msg_182>
+	</message_5>
+	
+	<message_6>
+		<msg_0>测试</msg_0>
+		<msg_8>无法连接网络&#10;请检查您的网络连接</msg_8>
+		<msg_9>您与服务器的网络连接不稳定&#10;请稍后再试</msg_9>
+		<msg_10>抱歉，您输入的基地名称已被使用，请重新输入。</msg_10>
+		<msg_12>登录失败，请检查用户名和密码后重试。</msg_12>
+		<msg_13>您已被任命为基地指挥官。</msg_13>
+		<msg_14>新版本({0})已上线，请进行更新以确保正常游戏。&#10;是否要进行更新？</msg_14>
+		<msg_15>网络错误！</msg_15>
+		<msg_17>请确认基地名称</msg_17>
+		<msg_18>是否要花费勋章来修改基地名称？</msg_18>
+		<msg_19>基地名称修改完成。</msg_19>
+		<msg_20>账号登录成功。</msg_20>
+		<msg_21>你的账号已准备好加载此前的游戏进度，是否要继续此前的游戏进度？这将导致您当前游戏进度的丢失。</msg_21>
+		<msg_22>该账号已关联至您刚刚登录的社交平台账号。</msg_22>
+		<msg_23>该账号已关联至另一个社交平台账号。</msg_23>
+		<msg_24>来宾玩家无法复制账号，请将您的账号关联至Game Center或Google Play。</msg_24>
+		<msg_25>在另一台设备上输入该代码进行数据同步。</msg_25>
+		<msg_26>确定要使用所复制账号的数据覆盖您当前游戏的进度？</msg_26>
+		<msg_27>代码错误，请核对原设备上显示的代码。</msg_27>
+		<msg_28>您的账号已与{0}关联，请登录该账号后再进行游戏。</msg_28>
+	    <msg_38>敌人在线。</msg_38>
+	    <msg_39>敌人的基地已激活护盾。</msg_39>
+		<msg_40>黄金储量不足，无法寻找对手。</msg_40>
+		<msg_41>向敌人发起进攻将导致当前护盾消失，是否要发起进攻？</msg_41>
+		<msg_42>是否要对所有轰炸机进行维修？</msg_42>
+		<msg_43>确定要用勋章补充存量不足的资源？</msg_43>
+		<msg_44>专家人数不足。</msg_44>
+		<msg_45>生产数量不能超过存储能力。</msg_45>
+		<msg_46>确定要移除该轰炸机？所携带科技也将被移除。</msg_46>
+		<msg_47>轰炸机正处于维修中，无法移除。</msg_47>
+	    <msg_48>祝贺您!您已从补给站中获取150枚勋章。</msg_48>
+	    <msg_49>确定要跳过教程？</msg_49>
+		<msg_50>是否要发送该消息？</msg_50>
+		<msg_51>确定要删除该消息？</msg_51>
+		<msg_52>确定要删除所有消息？</msg_52>
+		<msg_53>是否要举报该消息？</msg_53>
+		<msg_54>消息举报成功。</msg_54>
+		<msg_55>是否要将该消息发送至管理员？</msg_55>
+		<msg_56>消息发送成功。</msg_56>
+		<msg_57>是否要花费勋章立刻完成该项工作？</msg_57>
+		<msg_58>勋章不足。&#10;是否要在补给站购买勋章？</msg_58>
+		<msg_59>是否要购买勋章？</msg_59>
+		<msg_60>是否要补充资源？</msg_60>
+		<msg_61>是否要添加一名工兵？</msg_61>
+		<msg_62>没有可用的工兵。</msg_62>
+		<msg_63>没有可用的工兵。&#10;是否要从补给站获得更多的工兵？</msg_63>
+		<msg_64>是否要增加一个实验室项目栏位？</msg_64>
+		<msg_65>没有可用的试验栏位。&#10;请先增加一个栏位。</msg_65>
+		<msg_66>工兵人数已达上限。</msg_66>
+		<msg_67>请等待当前的建造与升级任务完成后重试。</msg_67>
+		<msg_75>服务器正在维护，请等待。&#10;我们为此给您带来的不便表示歉意。</msg_75>
+		<msg_82>感谢购买。</msg_82>
+		<msg_84>您的已取消购买。</msg_84>
+		<msg_85>抱歉，该凭据已失效。&#10;但您的交易或许已完成。&#10;我们建议您不要重复进行购买，并查看您的购买记录。如有任何问题，请与管理员联系。</msg_85>
+		<msg_90>您要接受败局吗？让入侵者感受您复仇的怒火吧！</msg_90>
+		<msg_91>是否要请求您的联盟指挥官为您向该玩家发起复仇袭击？</msg_91>
+		<msg_92>没有可以投入作战的轰炸机!</msg_92>
+		<msg_93>确定要返回？</msg_93>
+		<msg_94>向该位置发射ICBM导弹。</msg_94>
+		<msg_95>您的ICBM导弹已被对方的THAAD 拦截！发射ICBM导弹前请调查对方基地是否建有THAAD！</msg_95>
+		<msg_96>确定要加入该联盟？&#10;[{0}]</msg_96>
+		<msg_97>您没有达到联盟指挥官设定的机翼徽章要求。</msg_97>
+		<msg_98>请至少输入两个字符。</msg_98>
+		<msg_99>不能使用&apos; ` &apos;字符。</msg_99>
+		<msg_100>只有拥有1个或更多黄金机翼徽章的玩家才能够创建一个联盟。</msg_100>
+		<msg_101>正在生产一架轰炸机，是否要取消生产？</msg_101>
+		<msg_102>抱歉，联盟已解散。</msg_102>
+		<msg_103>是否要创建一个联盟？</msg_103>
+		<msg_104>祝贺您！您已加入一个联盟。</msg_104>
+		<msg_105>抱歉，联盟名额已满。</msg_105>
+		<msg_106>是否向该玩家派遣一名专家？</msg_106>
+		<msg_107>该玩家已拥有足够数量的专家。</msg_107>
+		<msg_108>专家已成功派遣。</msg_108>
+		<msg_109>聊天服务器连接失败，请稍后重试。</msg_109>
+		<msg_115>您的基地已经建造了一座诱饵指挥中心。</msg_115>
+		<msg_116>护盾已激活。&#10;是否要再次激活一个护盾？</msg_116>
+		<msg_126>祝贺您！联盟已新建成功。</msg_126>
+		<msg_129>确定要解散联盟？</msg_129>
+		<msg_130>确定要退出该联盟？</msg_130>
+		<msg_135>联盟解散成功。</msg_135>
+		<msg_136>您已成功退出联盟。</msg_136>
+		<msg_152>不能使用&apos; 1 &apos;字符。</msg_152>
+		<msg_166>是否要将该玩家从联盟中除名？&#10;[{0}]</msg_166>
+		<msg_167>玩家已经从联盟中除名。</msg_167>
+		<msg_168>抱歉，您已被联盟除名。</msg_168>
+		<msg_173>抱歉，该联盟名称已被使用，请重新输入。</msg_173>
+	    <msg_180>是否要返回标题画面？</msg_180>
+	   	<msg_182>由于长时间无操作，游戏已被自动转至标题画面。</msg_182>
+	</message_6>
+</languages>

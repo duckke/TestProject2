@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>	
+	<gameunit_0>
+		<character_name_0>CHARACTER_A</character_name_0>
+		<character_name_1>CHARACTER_B</character_name_1>
+		<character_name_2>CHARACTER_C</character_name_2>		
+		<character_description_0>CHARACTER_A is blah blah blah blah blah blah..blah blah blah....</character_description_0>
+		<character_description_1>CHARACTER_B is blah blah blah blah blah blah..blah blah blah....</character_description_1>
+		<character_description_2>CHARACTER_C is blah blah blah blah blah blah..blah blah blah....</character_description_2>
+				
+		<character_sub_weapon_name_0>CHARACTER_SUB_WEAPON_A</character_sub_weapon_name_0>
+		<character_sub_weapon_name_1>CHARACTER_SUB_WEAPON_B</character_sub_weapon_name_1>
+		<character_sub_weapon_name_2>CHARACTER_SUB_WEAPON_C</character_sub_weapon_name_2>		
+		<character_sub_weapon_description_0>CHARACTER_SUB_WEAPON_A is blah blah blah blah blah blah..blah blah blah....</character_sub_weapon_description_0>
+		<character_sub_weapon_description_1>CHARACTER_SUB_WEAPON_B is blah blah blah blah blah blah..blah blah blah....</character_sub_weapon_description_1>
+		<character_sub_weapon_description_2>CHARACTER_SUB_WEAPON_C is blah blah blah blah blah blah..blah blah blah....</character_sub_weapon_description_2>
+		
+		<boss_name_0>BOSS_A</boss_name_0>
+		<boss_name_1>BOSS_B</boss_name_1>
+		<boss_name_2>BOSS_C</boss_name_2>
+		<boss_description_0>BOSS_A is blah blah blah blah blah blah..blah blah blah....</boss_description_0>
+		<boss_description_1>BOSS_B is blah blah blah blah blah blah..blah blah blah....</boss_description_1>
+		<boss_description_2>BOSS_C is blah blah blah blah blah blah..blah blah blah....</boss_description_2>
+		
+		<boss_sub_weapon_name_0>BOSS_SUB_WEAPON_A</boss_sub_weapon_name_0>
+		<boss_sub_weapon_name_1>BOSS_SUB_WEAPON_B</boss_sub_weapon_name_1>
+		<boss_sub_weapon_name_2>BOSS_SUB_WEAPON_C</boss_sub_weapon_name_2>
+		<boss_sub_weapon_description_0>BOSS_SUB_WEAPON_A is blah blah blah blah blah blah..blah blah blah....</boss_sub_weapon_description_0>
+		<boss_sub_weapon_description_1>BOSS_SUB_WEAPON_B is blah blah blah blah blah blah..blah blah blah....</boss_sub_weapon_description_1>
+		<boss_sub_weapon_description_2>BOSS_SUB_WEAPON_C is blah blah blah blah blah blah..blah blah blah....</boss_sub_weapon_description_2>
+		
+		<unit_name_0>UNIT_0</unit_name_0> 
+		<unit_name_1>UNIT_1</unit_name_1>
+		<unit_name_2>UNIT_2</unit_name_2>
+		<unit_name_5>UNIT_5</unit_name_5>
+		<unit_name_6>UNIT_6</unit_name_6>
+		<unit_name_7>UNIT_7</unit_name_7>
+		<unit_name_10>UNIT_10</unit_name_10>
+		<unit_name_11>UNIT_11</unit_name_11>
+		<unit_name_12>UNIT_12</unit_name_12>
+		<unit_name_15>UNIT_15</unit_name_15>
+		<unit_name_16>UNIT_16</unit_name_16>
+		<unit_name_20>UNIT_20</unit_name_20>
+		<unit_name_50>UNIT_50</unit_name_50>
+		<unit_name_51>UNIT_51</unit_name_51>
+		<unit_name_52>UNIT_52</unit_name_52>
+		<unit_name_55>UNIT_55</unit_name_55>
+		<unit_name_56>UNIT_56</unit_name_56>
+		<unit_name_57>UNIT_57</unit_name_57>
+		<unit_name_60>UNIT_60</unit_name_60>
+		<unit_name_61>UNIT_61</unit_name_61>
+		<unit_name_65>UNIT_65</unit_name_65>
+		<unit_name_66>UNIT_66</unit_name_66>
+		<unit_name_70>UNIT_70</unit_name_70>
+		<unit_name_115>UNIT_115</unit_name_115>
+		<unit_name_120>UNIT_120</unit_name_120>
+		<unit_description_0>UNIT_0 is blah blah blah blah blah blah..blah blah blah....</unit_description_0>
+		<unit_description_1>UNIT_1 is blah blah blah blah blah blah..blah blah blah....</unit_description_1>
+		<unit_description_2>UNIT_2 is blah blah blah blah blah blah..blah blah blah....</unit_description_2>
+		<unit_description_5>UNIT_5 is blah blah blah blah blah blah..blah blah blah....</unit_description_5>
+		<unit_description_6>UNIT_6 is blah blah blah blah blah blah..blah blah blah....</unit_description_6>
+		<unit_description_7>UNIT_7 is blah blah blah blah blah blah..blah blah blah....</unit_description_7>
+		<unit_description_10>UNIT_10 is blah blah blah blah blah blah..blah blah blah....</unit_description_10>
+		<unit_description_11>UNIT_11 is blah blah blah blah blah blah..blah blah blah....</unit_description_11>
+		<unit_description_12>UNIT_12 is blah blah blah blah blah blah..blah blah blah....</unit_description_12>
+		<unit_description_15>UNIT_15 is blah blah blah blah blah blah..blah blah blah....</unit_description_15>
+		<unit_description_16>UNIT_16 is blah blah blah blah blah blah..blah blah blah....</unit_description_16>
+		<unit_description_20>UNIT_20 is blah blah blah blah blah blah..blah blah blah....</unit_description_20>
+		<unit_description_50>UNIT_50 is blah blah blah blah blah blah..blah blah blah....</unit_description_50>
+		<unit_description_51>UNIT_51 is blah blah blah blah blah blah..blah blah blah....</unit_description_51>
+		<unit_description_52>UNIT_52 is blah blah blah blah blah blah..blah blah blah....</unit_description_52>
+		<unit_description_55>UNIT_55 is blah blah blah blah blah blah..blah blah blah....</unit_description_55>
+		<unit_description_56>UNIT_56 is blah blah blah blah blah blah..blah blah blah....</unit_description_56>
+		<unit_description_57>UNIT_57 is blah blah blah blah blah blah..blah blah blah....</unit_description_57>
+		<unit_description_60>UNIT_60 is blah blah blah blah blah blah..blah blah blah....</unit_description_60>
+		<unit_description_61>UNIT_61 is blah blah blah blah blah blah..blah blah blah....</unit_description_61>
+		<unit_description_65>UNIT_65 is blah blah blah blah blah blah..blah blah blah....</unit_description_65>
+		<unit_description_66>UNIT_66 is blah blah blah blah blah blah..blah blah blah....</unit_description_66>
+		<unit_description_70>UNIT_70 is blah blah blah blah blah blah..blah blah blah....</unit_description_70>
+		<unit_description_115>UNIT_115 is blah blah blah blah blah blah..blah blah blah....</unit_description_115>
+		<unit_description_120>UNIT_120 is blah blah blah blah blah blah..blah blah blah....</unit_description_120>
+	</gameunit_0>	
+	
+	
+	<gameunit_1>
+		<character_name_0>캐릭터_A</character_name_0>
+		<character_name_1>캐릭터_B</character_name_1>
+		<character_name_2>캐릭터_C</character_name_2>		
+		<character_description_0>캐릭터_A 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</character_description_0>
+		<character_description_1>캐릭터_B 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</character_description_1>
+		<character_description_2>캐릭터_C 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</character_description_2>
+		
+		<character_sub_weapon_name_0>캐릭터_서브웨폰_A</character_sub_weapon_name_0>
+		<character_sub_weapon_name_1>캐릭터_서브웨폰_B</character_sub_weapon_name_1>
+		<character_sub_weapon_name_2>캐릭터_서브웨폰_C</character_sub_weapon_name_2>		
+		<character_sub_weapon_description_0>캐릭터_서브웨폰_A 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</character_sub_weapon_description_0>
+		<character_sub_weapon_description_1>캐릭터_서브웨폰_B 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</character_sub_weapon_description_1>
+		<character_sub_weapon_description_2>캐릭터_서브웨폰_C 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</character_sub_weapon_description_2>
+		
+		<boss_name_0>보스_A</boss_name_0>
+		<boss_name_1>보스_B</boss_name_1>
+		<boss_name_2>보스_C</boss_name_2>
+		<boss_description_0>보스_A 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</boss_description_0>
+		<boss_description_1>보스_B 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</boss_description_1>
+		<boss_description_2>보스_C 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</boss_description_2>
+		
+		<boss_sub_weapon_name_0>보스_서브웨폰_A</boss_sub_weapon_name_0>
+		<boss_sub_weapon_name_1>보스_서브웨폰_B</boss_sub_weapon_name_1>
+		<boss_sub_weapon_name_2>보스_서브웨폰_C</boss_sub_weapon_name_2>
+		<boss_sub_weapon_description_0>보스_서브웨폰_A 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</boss_sub_weapon_description_0>
+		<boss_sub_weapon_description_1>보스_서브웨폰_B 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</boss_sub_weapon_description_1>
+		<boss_sub_weapon_description_2>보스_서브웨폰_C 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</boss_sub_weapon_description_2>
+				
+		<unit_name_0>유닛_0</unit_name_0> 
+		<unit_name_1>유닛_1</unit_name_1>
+		<unit_name_2>유닛_2</unit_name_2>
+		<unit_name_5>유닛_5</unit_name_5>
+		<unit_name_6>유닛_6</unit_name_6>
+		<unit_name_7>유닛_7</unit_name_7>
+		<unit_name_10>유닛_10</unit_name_10>
+		<unit_name_11>유닛_11</unit_name_11>
+		<unit_name_12>유닛_12</unit_name_12>
+		<unit_name_15>유닛_15</unit_name_15>
+		<unit_name_16>유닛_16</unit_name_16>
+		<unit_name_20>유닛_20</unit_name_20>
+		<unit_name_50>유닛_50</unit_name_50>
+		<unit_name_51>유닛_51</unit_name_51>
+		<unit_name_52>유닛_52</unit_name_52>
+		<unit_name_55>유닛_55</unit_name_55>
+		<unit_name_56>유닛_56</unit_name_56>
+		<unit_name_57>유닛_57</unit_name_57>
+		<unit_name_60>유닛_60</unit_name_60>
+		<unit_name_61>유닛_61</unit_name_61>
+		<unit_name_65>유닛_65</unit_name_65>
+		<unit_name_66>유닛_66</unit_name_66>
+		<unit_name_70>유닛_70</unit_name_70>
+		<unit_name_115>유닛_115</unit_name_115>
+		<unit_name_120>유닛_120</unit_name_120>
+		<unit_description_0>유닛_0 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구.....</unit_description_0>
+		<unit_description_1>유닛_1 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_1>
+		<unit_description_2>유닛_2 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_2>
+		<unit_description_5>유닛_5 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_5>
+		<unit_description_6>유닛_6 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_6>
+		<unit_description_7>유닛_7 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_7>
+		<unit_description_10>유닛_10 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_10>
+		<unit_description_11>유닛_11 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_11>
+		<unit_description_12>유닛_12 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_12>
+		<unit_description_15>유닛_15 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_15>
+		<unit_description_16>유닛_16 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_16>
+		<unit_description_20>유닛_20 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_20>
+		<unit_description_50>유닛_50 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_50>
+		<unit_description_51>유닛_51 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_51>
+		<unit_description_52>유닛_52 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_52>
+		<unit_description_55>유닛_55 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_55>
+		<unit_description_56>유닛_56 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_56>
+		<unit_description_57>유닛_57 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_57>
+		<unit_description_60>유닛_60 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_60>
+		<unit_description_61>유닛_61 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_61>
+		<unit_description_65>유닛_65 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_65>
+		<unit_description_66>유닛_66 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_66>
+		<unit_description_70>유닛_70 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_70>
+		<unit_description_115>유닛_115 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_115>
+		<unit_description_120>유닛_120 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구.. 어쩌구 저쩌구....</unit_description_120>
+	</gameunit_1>	
+	
+	
+	
+</languages>

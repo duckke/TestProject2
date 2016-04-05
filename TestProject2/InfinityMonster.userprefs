@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Script/Battle/BattleCharacter.cs">
+    <Files>
+      <File FileName="Assets/02.Script/Common/c.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/Battle/BattleEnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/Battle/BattleCharacter.cs" Line="10" Column="3" />
+      <File FileName="Assets/02.Script/Battle/BattleEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Data/game_data.xml" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/Common/Global.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/Common/g.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/Battle/BattleCharacterManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/BattleUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/BattleUI/BattleHUD.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/BattleUI/BackgroundVC.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/Battle/BattleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Script/Battle/BattleCharacterSwing.cs" Line="1" Column="1" />
+      <File FileName="Assets/BattleTouchManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameMainVC.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
